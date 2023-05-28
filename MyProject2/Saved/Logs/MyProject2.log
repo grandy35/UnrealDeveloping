@@ -1492,3 +1492,527 @@ Script call stack:
 [2023.05.28-12.52.53:127][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/BP_Pawn_Auto2.uasset" SILENT=false AUTOSAVING=true
 [2023.05.28-12.52.53:152][985]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn_Auto20B34336F46E9901823EE20BC13314FA6.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/BP_Pawn_Auto2.uasset'
 [2023.05.28-12.52.53:152][985]LogFileHelpers: Auto-saving content packages took 0.075
+[2023.05.28-12.53.59:476][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.28-12.54.20:755][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.28-12.54.21:883][703]LogEditorViewport: Clicking on Actor (context menu): BlockingVolume (BlockingVolume3)
+[2023.05.28-12.54.21:948][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.05.28-12.54.22:061][714]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2023.05.28-12.54.22:109][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.05.28-12.54.22:343][740]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2023.05.28-12.54.22:362][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.05.28-12.55.51:199][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.28-12.55.51:329][577]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Arcanoid/BP_Pawn.BP_Pawn
+[2023.05.28-12.55.53:628][775]LogSlate: Window 'BP_Pawn' being destroyed
+[2023.05.28-12.55.57:149][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.28-12.57.33:107][ 48]LogSlate: Took 0.027866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.05.28-12.58.01:636][340]LogSlate: Window 'Tutorials' being destroyed
+[2023.05.28-12.58.04:946][734]LogSlate: Window 'Tutorials' being destroyed
+[2023.05.28-12.58.59:215][201]BlueprintLog: New page: Compile BP_Pawn
+[2023.05.28-12.58.59:416][201]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2023.05.28-12.58.59:445][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset" SILENT=true
+[2023.05.28-12.58.59:472][201]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn870E6D9C4662DB27F06F57B04986854A.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset'
+[2023.05.28-12.59.02:166][518]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-12.59.02:180][518]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.59.02:181][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-12.59.02:181][518]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 18:59:02)
+[2023.05.28-12.59.02:181][518]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-12.59.02:186][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004965s)
+[2023.05.28-12.59.02:186][518]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-12.59.02:187][518]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2023.05.28-12.59.02:187][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005786s)
+[2023.05.28-12.59.02:228][518]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2023.05.28-12.59.02:233][518]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-12.59.02:247][518]LogInit: FAudioDevice initialized.
+[2023.05.28-12.59.02:251][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.59.02:283][518]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-12.59.02:285][518]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-15.59.02
+[2023.05.28-12.59.02:285][518]LogWorld: Bringing up level for play took: 0.002387
+[2023.05.28-12.59.02:297][518]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.28-12.59.02:306][518]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld 0,222
+[2023.05.28-12.59.02:307][518]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.59.03:241][609]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-12.59.05:421][868]LogBlueprintUserMessages: [BP_CubeChild_C_28] 1
+[2023.05.28-12.59.06:521][  0]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.59.06:522][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.59.06:529][  0]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-12.59.06:566][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-12.59.06:567][  0]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.59.06:616][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2023.05.28-12.59.06:643][  1]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.05.28-12.59.47:076][772]LogSlate: Window 'Tutorials' being destroyed
+[2023.05.28-12.59.58:005][ 75]BlueprintLog: New page: Compile BP_Pawn
+[2023.05.28-12.59.58:199][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2023.05.28-12.59.58:232][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset" SILENT=true
+[2023.05.28-12.59.58:259][ 75]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn5826D5FB42E4C0B0886B669EB7EED3FC.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset'
+[2023.05.28-13.00.00:611][353]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-13.00.00:626][353]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.00.00:626][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-13.00.00:626][353]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 19:00:00)
+[2023.05.28-13.00.00:626][353]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-13.00.00:631][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004961s)
+[2023.05.28-13.00.00:632][353]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-13.00.00:632][353]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2023.05.28-13.00.00:632][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005661s)
+[2023.05.28-13.00.00:671][353]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2023.05.28-13.00.00:675][353]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-13.00.00:691][353]LogInit: FAudioDevice initialized.
+[2023.05.28-13.00.00:696][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.00.00:725][353]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-13.00.00:728][353]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-16.00.00
+[2023.05.28-13.00.00:729][353]LogWorld: Bringing up level for play took: 0.002510
+[2023.05.28-13.00.00:741][353]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.28-13.00.00:750][353]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld 0,666
+[2023.05.28-13.00.00:751][353]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.00.01:688][455]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-13.00.03:860][715]LogBlueprintUserMessages: [BP_CubeChild_C_28] 1
+[2023.05.28-13.00.04:736][820]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.00.04:736][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.00.04:744][820]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-13.00.04:781][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-13.00.04:782][820]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.00.04:830][820]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2023.05.28-13.00.04:860][821]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.05.28-13.00.19:367][561]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.19:552][580]LogEditorTransaction: Undo RemovePin
+[2023.05.28-13.00.19:729][597]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.19:960][621]LogEditorTransaction: Undo Add Pin
+[2023.05.28-13.00.20:135][639]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.20:300][656]LogEditorTransaction: Undo Add Node
+[2023.05.28-13.00.20:490][676]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.20:683][699]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.20:866][721]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.21:056][741]LogEditorTransaction: Undo Add Node
+[2023.05.28-13.00.21:248][761]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.21:463][784]LogEditorTransaction: Undo Split Struct Pin
+[2023.05.28-13.00.21:659][805]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.21:842][827]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.22:040][848]LogEditorTransaction: Undo Split Struct Pin
+[2023.05.28-13.00.22:236][869]LogEditorTransaction: Undo Straighten Connection(s)
+[2023.05.28-13.00.22:428][889]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.22:634][911]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.22:825][934]LogEditorTransaction: Undo Straighten Connection(s)
+[2023.05.28-13.00.23:022][955]LogEditorTransaction: Undo Move Nodes
+[2023.05.28-13.00.23:236][978]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.23:440][  0]LogEditorTransaction: Undo Delete current selection
+[2023.05.28-13.00.23:647][ 22]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.23:862][ 45]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.24:077][ 68]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.24:267][ 88]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.24:483][111]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.24:714][136]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.24:912][157]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.25:144][182]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.25:368][206]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.25:583][229]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.25:800][255]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.26:017][281]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.26:239][305]LogEditorTransaction: Undo Add Node
+[2023.05.28-13.00.26:471][330]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.26:710][356]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.26:932][380]LogEditorTransaction: Undo Add Node
+[2023.05.28-13.00.27:172][406]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.27:396][430]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.27:626][455]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.27:848][479]LogEditorTransaction: Undo Add Node
+[2023.05.28-13.00.28:070][503]LogEditorTransaction: Undo Change Parameter Type
+[2023.05.28-13.00.28:311][529]LogEditorTransaction: Undo Rename Variable
+[2023.05.28-13.00.28:511][550]LogEditorTransaction: Undo Add Variable
+[2023.05.28-13.00.28:768][578]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.28:997][603]LogEditorTransaction: Undo Create Pin Link
+[2023.05.28-13.00.29:236][629]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.29:465][654]LogEditorTransaction: Undo Add Node
+[2023.05.28-13.00.29:719][682]LogEditorTransaction: Undo Move Node
+[2023.05.28-13.00.29:974][710]LogEditorTransaction: Undo Paste clipboard contents
+[2023.05.28-13.00.30:194][734]LogEditorTransaction: Undo AddPin
+[2023.05.28-13.00.30:434][759]LogEditorTransaction: Undo Add Node
+[2023.05.28-13.00.30:661][784]LogEditorTransaction: Undo Delete current selection
+[2023.05.28-13.00.31:397][870]LogEditorTransaction: Undo Delete current selection
+[2023.05.28-13.00.36:681][501]BlueprintLog: New page: Compile BP_Pawn
+[2023.05.28-13.00.36:890][501]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2023.05.28-13.00.36:921][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset" SILENT=true
+[2023.05.28-13.00.36:946][501]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnC1C1899647EF04DCDD72C8B3839425CC.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset'
+[2023.05.28-13.00.37:629][579]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-13.00.37:642][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.00.37:643][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-13.00.37:643][579]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 19:00:37)
+[2023.05.28-13.00.37:643][579]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-13.00.37:648][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004934s)
+[2023.05.28-13.00.37:648][579]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-13.00.37:649][579]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2023.05.28-13.00.37:649][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005830s)
+[2023.05.28-13.00.37:690][579]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2023.05.28-13.00.37:694][579]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-13.00.37:707][579]LogInit: FAudioDevice initialized.
+[2023.05.28-13.00.37:712][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.00.37:744][579]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-13.00.37:746][579]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-16.00.37
+[2023.05.28-13.00.37:746][579]LogWorld: Bringing up level for play took: 0.002397
+[2023.05.28-13.00.37:759][579]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.28-13.00.37:768][579]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld -0,316
+[2023.05.28-13.00.37:769][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.00.38:707][670]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-13.00.40:882][931]LogBlueprintUserMessages: [BP_CubeChild_C_28] 1
+[2023.05.28-13.00.42:299][101]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.00.42:299][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.00.42:307][101]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-13.00.42:344][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-13.00.42:344][101]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.00.42:392][101]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2023.05.28-13.00.42:418][102]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.05.28-13.03.06:197][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.28-13.03.06:198][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/NewWorld" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/NewWorld_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.05.28-13.03.06:395][259]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/NewWorld_Auto317895A024DD345A7A465D0AEFB9625D8.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/NewWorld_Auto3.umap'
+[2023.05.28-13.03.06:396][259]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewWorld/NewWorld' took 0.234
+[2023.05.28-13.03.06:396][259]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.234
+[2023.05.28-13.14.18:432][992]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2023.05.28-13.14.20:047][992]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.05.28-13.16.24:806][700]LogUObjectHash: Compacting FUObjectHashTables data took  10.27ms
+[2023.05.28-13.16.24:806][700]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewWorld/NewWorld' took 0.082
+[2023.05.28-13.16.24:807][700]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Arcanoid/BP_Pawn] ([1] browsable assets)...
+[2023.05.28-13.16.24:821][700]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Arcanoid/BP_Pawn.BP_Pawn]
+[2023.05.28-13.16.24:821][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/BP_Pawn]
+[2023.05.28-13.16.24:821][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/BP_Pawn_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.05.28-13.16.24:846][700]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn_Auto4A978F85E408562E71C5446859233B9E2.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/BP_Pawn_Auto4.uasset'
+[2023.05.28-13.16.24:846][700]LogFileHelpers: Auto-saving content packages took 0.039
+[2023.05.28-13.18.02:433][369]BlueprintLog: New page: Compile BP_Pawn
+[2023.05.28-13.18.02:436][369]LogBlueprint: Error: [Compiler BP_Pawn] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.05.28-13.18.02:436][369]LogBlueprint: Error: [Compiler BP_Pawn] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.05.28-13.18.02:718][369]LogUObjectHash: Compacting FUObjectHashTables data took   8.78ms
+[2023.05.28-13.18.02:725][369]LogBlueprint: Warning: [Compiler BP_Pawn] [3712,06] Compile of BP_Pawn failed. 2 Fatal Issue(s) 0 Warning(s) [in 292 ms] (/Game/Arcanoid/BP_Pawn.BP_Pawn)
+[2023.05.28-13.19.47:220][649]BlueprintLog: New page: Compile BP_Pawn
+[2023.05.28-13.19.47:470][649]LogUObjectHash: Compacting FUObjectHashTables data took   8.31ms
+[2023.05.28-13.19.47:502][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset" SILENT=true
+[2023.05.28-13.19.47:528][649]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn7A7D8C654A67AB800CFB25BAB1EEF863.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset'
+[2023.05.28-13.20.51:353][357]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-13.20.51:368][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.20.51:368][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-13.20.51:369][357]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 19:20:51)
+[2023.05.28-13.20.51:369][357]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-13.20.51:373][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004792s)
+[2023.05.28-13.20.51:374][357]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-13.20.51:374][357]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2023.05.28-13.20.51:374][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005615s)
+[2023.05.28-13.20.51:420][357]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2023.05.28-13.20.51:424][357]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-13.20.51:438][357]LogInit: FAudioDevice initialized.
+[2023.05.28-13.20.51:442][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.20.51:470][357]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-13.20.51:472][357]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-16.20.51
+[2023.05.28-13.20.51:472][357]LogWorld: Bringing up level for play took: 0.002405
+[2023.05.28-13.20.51:496][357]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld -0,589
+[2023.05.28-13.20.51:496][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.20.52:430][466]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-13.20.54:738][743]LogBlueprintUserMessages: [BP_CubeChild_C_60] 1
+[2023.05.28-13.20.56:220][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.20.56:221][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.20.56:228][917]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-13.20.56:260][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-13.20.56:261][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.20.56:315][917]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2023.05.28-13.20.56:339][918]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.05.28-13.21.03:992][822]BlueprintLog: New page: Compile BP_Pawn
+[2023.05.28-13.21.04:234][822]LogUObjectHash: Compacting FUObjectHashTables data took   8.19ms
+[2023.05.28-13.21.04:267][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset" SILENT=true
+[2023.05.28-13.21.04:294][822]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn360617D94E719DF8B4A0FB939FE53D47.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset'
+[2023.05.28-13.22.29:675][904]BlueprintLog: New page: Compile BP_Pawn
+[2023.05.28-13.22.29:935][904]LogUObjectHash: Compacting FUObjectHashTables data took   8.48ms
+[2023.05.28-13.22.29:969][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset" SILENT=true
+[2023.05.28-13.22.30:012][904]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnFEBFE761435DA4FEBB2B7AA1FBDB9F96.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset'
+[2023.05.28-13.22.36:527][396]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.28-13.23.23:937][337]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2023.05.28-13.23.23:939][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_MyPlayerConroller" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset" SILENT=true
+[2023.05.28-13.23.23:943][337]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConrollerAF80A0DB4ADF731FA700CD95179DF9D2.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset'
+[2023.05.28-13.23.23:945][337]LogMetaData: Removing '/Game/Arcanoid/BP_MyPlayerConroller.BP_MyPlayerConroller:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Arcanoid/NewBlueprint.PackageMetaData'
+[2023.05.28-13.23.23:945][337]LogMetaData: Removing '/Game/Arcanoid/BP_MyPlayerConroller.SKEL_BP_MyPlayerConroller_C' ref from Metadata '/Game/Arcanoid/NewBlueprint.PackageMetaData'
+[2023.05.28-13.23.23:945][337]LogMetaData: Removing '/Game/Arcanoid/BP_MyPlayerConroller.BP_MyPlayerConroller_C' ref from Metadata '/Game/Arcanoid/NewBlueprint.PackageMetaData'
+[2023.05.28-13.23.23:945][337]LogMetaData: Removing '/Game/Arcanoid/BP_MyPlayerConroller.BP_MyPlayerConroller:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Arcanoid/NewBlueprint.PackageMetaData'
+[2023.05.28-13.23.23:945][337]LogMetaData: Removing '/Game/Arcanoid/BP_MyPlayerConroller.BP_MyPlayerConroller:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Arcanoid/NewBlueprint.PackageMetaData'
+[2023.05.28-13.23.23:973][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_MyPlayerConroller" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset" SILENT=true
+[2023.05.28-13.23.23:979][337]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConrollerC34AFAB64E19F425968D4A9BCEC12A5B.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset'
+[2023.05.28-13.23.24:169][337]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2023.05.28-13.23.24:213][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2023.05.28-13.23.24:254][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.05.28-13.23.29:709][749]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Arcanoid/BP_MyPlayerConroller.BP_MyPlayerConroller
+[2023.05.28-13.26.03:711][540]BlueprintLog: New page: Compile BP_MyPlayerConroller
+[2023.05.28-13.26.03:963][540]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2023.05.28-13.26.03:977][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_MyPlayerConroller" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset" SILENT=true
+[2023.05.28-13.26.03:988][540]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConroller3C0F8CBC47E7C8EB53060AB3AD31903B.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset'
+[2023.05.28-13.26.30:179][651]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2023.05.28-13.26.30:198][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/NewWorld" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/NewWorld_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.05.28-13.26.30:485][651]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/NewWorld_Auto5D4C0B3294A6E10034383FFABAF9A4840.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/NewWorld_Auto5.umap'
+[2023.05.28-13.26.30:491][651]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewWorld/NewWorld' took 0.367
+[2023.05.28-13.26.30:491][651]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.367
+[2023.05.28-13.26.30:492][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Arcanoid/BP_Ball] ([1] browsable assets)...
+[2023.05.28-13.26.30:514][651]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Arcanoid/BP_Ball.BP_Ball]
+[2023.05.28-13.26.30:514][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/BP_Ball]
+[2023.05.28-13.26.30:514][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Ball" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/BP_Ball_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.05.28-13.26.30:563][651]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Ball_Auto55FDA589D42D825155755E7A4DBA87E09.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/BP_Ball_Auto5.uasset'
+[2023.05.28-13.26.30:563][651]LogFileHelpers: Auto-saving content packages took 0.071
+[2023.05.28-13.27.43:650][450]BlueprintLog: New page: Compile BP_MyPlayerConroller
+[2023.05.28-13.27.43:902][450]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2023.05.28-13.27.43:914][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_MyPlayerConroller" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset" SILENT=true
+[2023.05.28-13.27.43:924][450]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConroller9219E9B34734053490C8D299D2B94F7F.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset'
+[2023.05.28-13.34.23:462][765]BlueprintLog: New page: Compile BP_MyPlayerConroller
+[2023.05.28-13.34.23:717][765]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2023.05.28-13.34.23:730][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_MyPlayerConroller" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset" SILENT=true
+[2023.05.28-13.34.23:975][765]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConrollerA8D052FA4984F5CC9F1990A8523EB0FA.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset'
+[2023.05.28-13.35.58:319][850]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-13.35.58:332][850]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.35.58:332][850]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.28-13.35.58:338][850]LogPlayLevel: [PlayLevel] Compiling BP_Ball before play...
+[2023.05.28-13.35.58:555][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Ball" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset" SILENT=true
+[2023.05.28-13.35.58:576][850]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_BallD4EA4B6246D329D0898557AADB567530.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset'
+[2023.05.28-13.35.58:586][850]LogPlayLevel: [PlayLevel] Compiling BP_Pawn before play...
+[2023.05.28-13.35.58:827][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset" SILENT=true
+[2023.05.28-13.35.58:867][850]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn880839F34A0E5BA7F01F92B1B4C9224C.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset'
+[2023.05.28-13.35.58:935][850]LogUObjectHash: Compacting FUObjectHashTables data took   9.63ms
+[2023.05.28-13.35.58:936][850]LogPlayLevel: PlayLevel: Blueprint regeneration took 603 ms (2 blueprints)
+[2023.05.28-13.35.58:936][850]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 19:35:58)
+[2023.05.28-13.35.58:936][850]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-13.35.58:941][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004987s)
+[2023.05.28-13.35.58:942][850]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-13.35.58:942][850]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2023.05.28-13.35.58:942][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.006243s)
+[2023.05.28-13.35.58:992][850]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2023.05.28-13.35.58:997][850]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-13.35.59:011][850]LogInit: FAudioDevice initialized.
+[2023.05.28-13.35.59:015][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.35.59:046][850]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-13.35.59:048][850]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-16.35.59
+[2023.05.28-13.35.59:049][850]LogWorld: Bringing up level for play took: 0.002435
+[2023.05.28-13.35.59:061][850]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.28-13.35.59:070][850]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld 0,985
+[2023.05.28-13.35.59:070][850]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.35.59:764][928]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-13.36.01:936][188]LogBlueprintUserMessages: [BP_CubeChild_C_28] 1
+[2023.05.28-13.36.02:463][251]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.36.02:464][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.36.02:472][251]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-13.36.02:502][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-13.36.02:503][251]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.36.02:562][251]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2023.05.28-13.36.02:574][252]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.05.28-13.36.40:643][237]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.28-13.37.26:995][513]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2023.05.28-13.37.26:995][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/NewWorld" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/NewWorld_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.05.28-13.37.27:243][513]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/NewWorld_Auto6BFF3C8F14123111C85F74997B331B9D6.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/NewWorld_Auto6.umap'
+[2023.05.28-13.37.27:245][513]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewWorld/NewWorld' took 0.305
+[2023.05.28-13.37.27:245][513]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.305
+[2023.05.28-13.37.27:246][513]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Arcanoid/BP_MyPlayerConroller] ([1] browsable assets)...
+[2023.05.28-13.37.27:247][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/BP_MyPlayerConroller]
+[2023.05.28-13.37.27:256][513]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConroller_Auto6703CE3C346BFEB6FAE4C649C636E3F6A.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/BP_MyPlayerConroller_Auto6.uasset'
+[2023.05.28-13.37.27:257][513]LogFileHelpers: Auto-saving content packages took 0.011
+[2023.05.28-13.38.49:925][242]BlueprintLog: New page: Compile BP_MyPlayerConroller
+[2023.05.28-13.38.50:173][242]LogUObjectHash: Compacting FUObjectHashTables data took   8.23ms
+[2023.05.28-13.38.50:187][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_MyPlayerConroller" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset" SILENT=true
+[2023.05.28-13.38.50:200][242]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConrollerE03050614B7456100B07F2B858E36EED.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset'
+[2023.05.28-13.39.56:820][928]BlueprintLog: New page: Compile BP_MyPlayerConroller
+[2023.05.28-13.39.57:069][928]LogUObjectHash: Compacting FUObjectHashTables data took   8.60ms
+[2023.05.28-13.39.57:083][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_MyPlayerConroller" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset" SILENT=true
+[2023.05.28-13.39.57:098][928]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConroller7373C88142E06E3753B6E4A8D618CED6.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset'
+[2023.05.28-13.40.02:532][573]BlueprintLog: New page: Compile BP_MyPlayerConroller
+[2023.05.28-13.40.02:779][573]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2023.05.28-13.40.02:794][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_MyPlayerConroller" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset" SILENT=true
+[2023.05.28-13.40.02:808][573]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConroller54579DCF4011225401F78B935C4735CC.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset'
+[2023.05.28-13.40.04:427][763]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-13.40.04:446][763]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.40.04:446][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-13.40.04:446][763]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 19:40:04)
+[2023.05.28-13.40.04:447][763]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-13.40.04:451][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004888s)
+[2023.05.28-13.40.04:452][763]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-13.40.04:452][763]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2023.05.28-13.40.04:452][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005721s)
+[2023.05.28-13.40.04:504][763]LogUObjectHash: Compacting FUObjectHashTables data took   7.42ms
+[2023.05.28-13.40.04:508][763]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-13.40.04:522][763]LogInit: FAudioDevice initialized.
+[2023.05.28-13.40.04:526][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.40.04:559][763]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-13.40.04:561][763]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-16.40.04
+[2023.05.28-13.40.04:562][763]LogWorld: Bringing up level for play took: 0.002463
+[2023.05.28-13.40.04:586][763]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld 0,5
+[2023.05.28-13.40.04:586][763]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.40.05:508][871]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-13.40.05:783][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.40.05:784][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.40.05:791][904]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-13.40.05:824][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-13.40.05:825][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.40.05:886][904]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2023.05.28-13.40.05:910][905]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.05.28-13.41.41:719][108]BlueprintLog: New page: Compile BP_Pawn
+[2023.05.28-13.41.42:002][108]LogUObjectHash: Compacting FUObjectHashTables data took   9.13ms
+[2023.05.28-13.41.42:042][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset" SILENT=true
+[2023.05.28-13.41.42:090][108]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnA0A09EC049184BCCDECDF1BC24191CE2.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Pawn.uasset'
+[2023.05.28-13.41.43:782][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.05.28-13.41.44:993][445]LogEditorViewport: Clicking on Actor (LMB): BP_Pawn_C (BP_Pawn)
+[2023.05.28-13.41.47:746][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.05.28-13.41.47:751][767]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.28-13.41.54:203][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.28-13.41.54:282][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/NewWorld" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.28-13.41.54:336][540]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2023.05.28-13.41.54:586][540]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/NewWorld434AD69544C7C02A02FA76A36F1F3C22.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/NewWorld.umap'
+[2023.05.28-13.41.55:156][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.28-13.41.55:215][610]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-13.41.55:230][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.41.55:230][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-13.41.55:230][610]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 19:41:55)
+[2023.05.28-13.41.55:230][610]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-13.41.55:235][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004901s)
+[2023.05.28-13.41.55:236][610]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-13.41.55:236][610]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2023.05.28-13.41.55:236][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005672s)
+[2023.05.28-13.41.55:286][610]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2023.05.28-13.41.55:290][610]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-13.41.55:305][610]LogInit: FAudioDevice initialized.
+[2023.05.28-13.41.55:309][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.41.55:337][610]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-13.41.55:339][610]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-16.41.55
+[2023.05.28-13.41.55:340][610]LogWorld: Bringing up level for play took: 0.002412
+[2023.05.28-13.41.55:363][610]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld -0,722
+[2023.05.28-13.41.55:363][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.41.56:295][719]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-13.41.56:929][795]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.41.56:929][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.41.56:937][795]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-13.41.56:976][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-13.41.56:977][795]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.41.57:037][795]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2023.05.28-13.41.57:054][796]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.05.28-13.41.58:892][ 16]LogEditorViewport: Clicking on Actor (LMB): BP_Pawn_C (BP_Pawn)
+[2023.05.28-13.42.20:215][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.28-13.42.28:555][538]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-13.42.28:568][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.42.28:568][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-13.42.28:568][538]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 19:42:28)
+[2023.05.28-13.42.28:568][538]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-13.42.28:574][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005333s)
+[2023.05.28-13.42.28:574][538]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-13.42.28:574][538]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2023.05.28-13.42.28:574][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.006070s)
+[2023.05.28-13.42.28:624][538]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2023.05.28-13.42.28:628][538]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-13.42.28:642][538]LogInit: FAudioDevice initialized.
+[2023.05.28-13.42.28:647][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.42.28:675][538]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-13.42.28:678][538]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-16.42.28
+[2023.05.28-13.42.28:678][538]LogWorld: Bringing up level for play took: 0.002555
+[2023.05.28-13.42.28:700][538]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld 0,615
+[2023.05.28-13.42.28:700][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.42.29:629][647]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-13.42.31:618][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.42.31:618][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.42.31:626][807]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-13.42.31:657][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-13.42.31:658][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.42.31:716][807]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2023.05.28-13.42.31:733][808]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.05.28-13.44.28:978][842]LogEditorViewport: Clicking on Actor (LMB): BP_Pawn_C (BP_Pawn)
+[2023.05.28-13.44.31:242][110]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.05.28-13.44.31:294][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.05.28-13.44.32:930][302]LogEditorViewport: Clicking on Actor (LMB): BP_Pawn_C (BP_Pawn)
+[2023.05.28-13.44.55:931][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.28-13.45.10:032][726]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.28-13.45.18:333][717]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-13.45.18:346][717]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.45.18:346][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-13.45.18:346][717]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 19:45:18)
+[2023.05.28-13.45.18:346][717]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-13.45.18:351][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004981s)
+[2023.05.28-13.45.18:352][717]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-13.45.18:352][717]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2023.05.28-13.45.18:352][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005643s)
+[2023.05.28-13.45.18:403][717]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2023.05.28-13.45.18:407][717]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-13.45.18:421][717]LogInit: FAudioDevice initialized.
+[2023.05.28-13.45.18:425][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.45.18:459][717]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-13.45.18:461][717]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-16.45.18
+[2023.05.28-13.45.18:462][717]LogWorld: Bringing up level for play took: 0.002455
+[2023.05.28-13.45.18:484][717]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld 0,399
+[2023.05.28-13.45.18:484][717]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.45.19:414][826]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-13.45.21:590][ 87]LogBlueprintUserMessages: [BP_CubeChild_C_28] 1
+[2023.05.28-13.45.22:590][207]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.45.22:591][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.45.22:598][207]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-13.45.22:629][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-13.45.22:630][207]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.45.22:685][207]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2023.05.28-13.45.22:709][208]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.05.28-13.46.19:342][966]BlueprintLog: New page: Compile BP_MyPlayerConroller
+[2023.05.28-13.46.19:592][966]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2023.05.28-13.46.19:607][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_MyPlayerConroller" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset" SILENT=true
+[2023.05.28-13.46.19:621][966]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConroller20B0EAEE4CD019F202060CA45812ECA5.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset'
+[2023.05.28-13.46.20:319][ 46]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-13.46.20:332][ 46]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.46.20:332][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-13.46.20:332][ 46]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 19:46:20)
+[2023.05.28-13.46.20:333][ 46]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-13.46.20:338][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005374s)
+[2023.05.28-13.46.20:338][ 46]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-13.46.20:339][ 46]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2023.05.28-13.46.20:339][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.006026s)
+[2023.05.28-13.46.20:389][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   8.07ms
+[2023.05.28-13.46.20:393][ 46]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-13.46.20:406][ 46]LogInit: FAudioDevice initialized.
+[2023.05.28-13.46.20:411][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.46.20:438][ 46]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-13.46.20:441][ 46]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-16.46.20
+[2023.05.28-13.46.20:441][ 46]LogWorld: Bringing up level for play took: 0.002403
+[2023.05.28-13.46.20:453][ 46]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.28-13.46.20:463][ 46]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld 0,378
+[2023.05.28-13.46.20:463][ 46]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.46.21:396][142]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-13.46.22:564][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.46.22:564][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.46.22:572][282]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-13.46.22:601][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-13.46.22:601][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.46.22:661][282]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2023.05.28-13.46.22:674][283]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.05.28-13.47.39:627][355]BlueprintLog: New page: Compile BP_MyPlayerConroller
+[2023.05.28-13.47.39:881][355]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2023.05.28-13.47.39:897][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_MyPlayerConroller" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset" SILENT=true
+[2023.05.28-13.47.39:911][355]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConrollerDA4E81FB4BAC352B517774BCD8DE73E1.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset'
+[2023.05.28-13.48.11:731][746]BlueprintLog: New page: Compile BP_MyPlayerConroller
+[2023.05.28-13.48.11:984][746]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2023.05.28-13.48.11:998][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_MyPlayerConroller" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset" SILENT=true
+[2023.05.28-13.48.12:012][746]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConroller9528D8F04DC8C1DE751767A578C9F209.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_MyPlayerConroller.uasset'
+[2023.05.28-13.48.13:103][870]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-13.48.13:117][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.48.13:117][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-13.48.13:117][870]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 19:48:13)
+[2023.05.28-13.48.13:117][870]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-13.48.13:123][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005386s)
+[2023.05.28-13.48.13:123][870]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-13.48.13:123][870]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2023.05.28-13.48.13:124][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.006235s)
+[2023.05.28-13.48.13:176][870]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2023.05.28-13.48.13:179][870]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-13.48.13:193][870]LogInit: FAudioDevice initialized.
+[2023.05.28-13.48.13:198][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.48.13:230][870]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-13.48.13:233][870]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-16.48.13
+[2023.05.28-13.48.13:234][870]LogWorld: Bringing up level for play took: 0.002449
+[2023.05.28-13.48.13:246][870]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.28-13.48.13:256][870]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld -0,828
+[2023.05.28-13.48.13:257][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.48.14:182][977]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-13.48.14:987][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.48.14:987][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-13.48.14:995][ 72]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-13.48.15:027][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-13.48.15:027][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-13.48.15:087][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2023.05.28-13.48.15:103][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.05.28-13.52.09:671][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.28-13.52.09:671][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/NewWorld" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/NewWorld_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.05.28-13.52.09:921][303]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/NewWorld_Auto7469F1DDC4D747B3E798EB5A08E94276D.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/NewWorld_Auto7.umap'
+[2023.05.28-13.52.09:923][303]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewWorld/NewWorld' took 0.299
+[2023.05.28-13.52.09:923][303]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.299
+[2023.05.28-13.52.09:925][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Arcanoid/BP_Pawn] ([1] browsable assets)...
+[2023.05.28-13.52.09:925][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/BP_Pawn]
+[2023.05.28-13.52.09:925][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/BP_Pawn_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.05.28-13.52.09:940][303]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn_Auto7F0290660458004347AA9818E51DC609E.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/BP_Pawn_Auto7.uasset'
+[2023.05.28-13.52.09:941][303]LogFileHelpers: Auto-saving content packages took 0.017
