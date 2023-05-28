@@ -1,0 +1,886 @@
+﻿Log file open, 05/28/23 15:16:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.235534
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.05.28-12.16.12:792][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.05.28-12.16.12:792][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Engine.ini]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Engine.ini]
+[2023.05.28-12.16.12:793][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Engine.ini]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Engine.ini]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.05.28-12.16.12:793][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Engine.ini]
+[2023.05.28-12.16.12:793][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Engine.ini]
+[2023.05.28-12.16.12:795][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:795][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.28-12.16.12:795][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.28-12.16.12:795][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:795][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.28-12.16.12:795][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:795][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.28-12.16.12:795][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.28-12.16.12:795][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.28-12.16.12:795][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.28-12.16.12:795][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.28-12.16.12:795][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.28-12.16.12:796][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.28-12.16.12:796][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.28-12.16.12:796][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.05.28-12.16.12:842][  0]LogHAL: Display: Platform has ~ 16 GB [17110593536 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2023.05.28-12.16.12:842][  0]LogInit: Going up to parent DeviceProfile []
+[2023.05.28-12.16.12:842][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.28-12.16.12:842][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.05.28-12.16.12:843][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ue/UnrealDeveloping/MyProject2/Saved/Config/Windows/Engine.ini]
+[2023.05.28-12.16.12:843][  0]LogInit: Computer: MACHINE-U6F9KDM
+[2023.05.28-12.16.12:843][  0]LogInit: User: grandy
+[2023.05.28-12.16.12:843][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.05.28-12.16.12:843][  0]LogInit: High frequency timer resolution =2.835931 MHz
+[2023.05.28-12.16.12:844][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.05.28-12.16.12:844][  0]LogMemory: Platform Memory Stats for Windows
+[2023.05.28-12.16.12:844][  0]LogMemory: Process Physical Memory: 96.29 MB used, 96.29 MB peak
+[2023.05.28-12.16.12:844][  0]LogMemory: Process Virtual Memory: 84.32 MB used, 84.32 MB peak
+[2023.05.28-12.16.12:844][  0]LogMemory: Physical Memory: 6715.34 MB used,  9602.59 MB free, 16317.93 MB total
+[2023.05.28-12.16.12:844][  0]LogMemory: Virtual Memory: 4645.71 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2023.05.28-12.16.12:874][  0]LogInit: Using OS detected language (ru-RU).
+[2023.05.28-12.16.12:874][  0]LogInit: Using OS detected locale (ru-BY).
+[2023.05.28-12.16.12:875][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2023.05.28-12.16.12:875][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2023.05.28-12.16.12:875][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2023.05.28-12.16.12:875][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2023.05.28-12.16.12:875][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2023.05.28-12.16.12:875][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2023.05.28-12.16.12:875][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2023.05.28-12.16.12:875][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2023.05.28-12.16.12:910][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.28-12.16.12:910][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.28-12.16.13:026][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.28-12.16.13:026][  0]LogD3D11RHI: D3D11 adapters:
+[2023.05.28-12.16.13:135][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2023.05.28-12.16.13:135][  0]LogD3D11RHI:       5979/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.05.28-12.16.13:137][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.05.28-12.16.13:137][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.05.28-12.16.13:137][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.05.28-12.16.13:141][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.05.28-12.16.13:141][  0]LogD3D11RHI:     GPU DeviceId: 0x2182 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.28-12.16.13:141][  0]LogWindows: EnumDisplayDevices:
+[2023.05.28-12.16.13:141][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2023.05.28-12.16.13:142][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.05.28-12.16.13:142][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.05.28-12.16.13:142][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.05.28-12.16.13:142][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.05.28-12.16.13:142][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2023.05.28-12.16.13:142][  0]LogD3D11RHI:   Driver Version: 531.79 (internal:31.0.15.3179, unified:531.79)
+[2023.05.28-12.16.13:142][  0]LogD3D11RHI:      Driver Date: 4-25-2023
+[2023.05.28-12.16.13:142][  0]LogRHI: Texture pool is 4185 MB (70% of 5979 MB)
+[2023.05.28-12.16.13:207][  0]LogD3D11RHI: Async texture creation enabled
+[2023.05.28-12.16.13:215][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2023.05.28-12.16.13:215][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2023.05.28-12.16.13:215][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2023.05.28-12.16.13:223][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.05.28-12.16.13:475][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2023.05.28-12.16.13:487][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2023.05.28-12.16.13:500][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2023.05.28-12.16.13:512][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2023.05.28-12.16.13:524][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2023.05.28-12.16.13:536][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2023.05.28-12.16.13:549][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2023.05.28-12.16.13:561][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2023.05.28-12.16.13:567][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2023.05.28-12.16.13:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2023.05.28-12.16.13:643][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2023.05.28-12.16.13:689][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2023.05.28-12.16.13:689][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2023.05.28-12.16.13:711][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2023.05.28-12.16.13:711][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2023.05.28-12.16.13:722][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2023.05.28-12.16.13:733][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2023.05.28-12.16.13:744][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2023.05.28-12.16.13:756][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2023.05.28-12.16.13:801][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2023.05.28-12.16.13:801][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2023.05.28-12.16.13:801][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.05.28-12.16.13:806][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.28-12.16.13:840][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../ue/UnrealDeveloping/MyProject2/Intermediate/Shaders/WorkingDirectory/6040/).
+[2023.05.28-12.16.13:840][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/grandy/AppData/Local/Temp/UnrealShaderWorkingDir/4911D9614B452567D65AAEBE43144FE4/'.
+[2023.05.28-12.16.13:841][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.28-12.16.13:841][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.05.28-12.16.13:842][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.05.28-12.16.14:344][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.05.28-12.16.14:401][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/grandy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2023.05.28-12.16.14:401][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/grandy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2023.05.28-12.16.14:401][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../ue/UnrealDeveloping/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.28-12.16.14:401][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.05.28-12.16.14:401][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../ue/UnrealDeveloping/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.28-12.16.14:401][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.05.28-12.16.14:414][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.05.28-12.16.14:414][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.28-12.16.14:414][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.05.28-12.16.14:426][  0]LogDerivedDataCache: Using Local data cache path C:/Users/grandy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.28-12.16.14:426][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.28-12.16.14:426][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.05.28-12.16.14:447][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.05.28-12.16.14:449][  0]LogSlate: Using FreeType 2.6.0
+[2023.05.28-12.16.14:449][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.28-12.16.14:522][  0]LogAssetRegistry: FAssetRegistry took 0.0330 seconds to start up
+[2023.05.28-12.16.14:820][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.28-12.16.14:941][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.28-12.16.14:941][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.28-12.16.14:941][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.28-12.16.14:941][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.28-12.16.14:941][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.28-12.16.14:950][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4139302413)
+[2023.05.28-12.16.15:532][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.230245 seconds
+[2023.05.28-12.16.15:541][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2023.05.28-12.16.15:541][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2023.05.28-12.16.15:541][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.28-12.16.16:226][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.28-12.16.16:239][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.28-12.16.16:344][  0]SourceControl: Source control is disabled
+[2023.05.28-12.16.16:344][  0]SourceControl: Source control is disabled
+[2023.05.28-12.16.16:345][  0]SourceControl: Source control is disabled
+[2023.05.28-12.16.16:346][  0]SourceControl: Source control is disabled
+[2023.05.28-12.16.16:435][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.28-12.16.16:492][  0]LogOcInput: OculusInput pre-init called
+[2023.05.28-12.16.17:049][  0]LogEngine: Initializing Engine...
+[2023.05.28-12.16.17:049][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.28-12.16.17:051][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.28-12.16.17:267][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.28-12.16.17:277][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.28-12.16.17:292][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-12.16.17:309][  0]LogInit: FAudioDevice initialized.
+[2023.05.28-12.16.17:309][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.28-12.16.17:384][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/grandy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2023.05.28-12.16.17:391][  0]LogInit: Texture streaming: Enabled
+[2023.05.28-12.16.17:404][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.28-12.16.17:435][  0]LogInit: Transaction tracking system initialized
+[2023.05.28-12.16.17:450][  0]BlueprintLog: New page: Editor Load
+[2023.05.28-12.16.17:510][  0]LocalizationService: Localization service is disabled
+[2023.05.28-12.16.17:841][  0]LogFileCache: Scanning file cache for directory 'D:/ue/UnrealDeveloping/MyProject2/Content/' took 0.01s
+[2023.05.28-12.16.17:841][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.05.28-12.16.17:841][  0]LogCook: Display: Mobile HDR setting 1
+[2023.05.28-12.16.18:009][  0]SourceControl: Source control is disabled
+[2023.05.28-12.16.18:009][  0]Cmd: MAP LOAD FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.28-12.16.18:393][  0]LightingResults: New page: Lighting Build
+[2023.05.28-12.16.18:409][  0]MapCheck: New page: Map Check
+[2023.05.28-12.16.18:409][  0]LightingResults: New page: Lighting Build
+[2023.05.28-12.16.18:437][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2023.05.28-12.16.19:600][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.28-12.16.19:635][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.28-12.16.19:681][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2023.05.28-12.16.19:681][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.28-12.16.19:681][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,096ms to complete.
+[2023.05.28-12.16.19:681][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.672
+[2023.05.28-12.16.20:139][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.16.20:147][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.16.20:154][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.16.20:161][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.16.20:197][  0]LogCollectionManager: Loaded 0 collections in 0.000932 seconds
+[2023.05.28-12.16.20:282][  0]LogFileCache: Scanning file cache for directory 'D:/ue/UnrealDeveloping/MyProject2/Saved/Collections/' took 0.01s
+[2023.05.28-12.16.20:282][  0]LogFileCache: Scanning file cache for directory 'D:/ue/UnrealDeveloping/MyProject2/Content/Developers/grandy/Collections/' took 0.00s
+[2023.05.28-12.16.20:282][  0]LogFileCache: Scanning file cache for directory 'D:/ue/UnrealDeveloping/MyProject2/Content/Collections/' took 0.00s
+[2023.05.28-12.16.20:282][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2023.05.28-12.16.20:291][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2732 classes and 659 folders.
+[2023.05.28-12.16.20:344][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.05.28-12.16.20:410][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:435][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:503][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:536][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:537][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:546][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:572][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:609][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:625][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:652][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.20:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.05.28-12.16.21:020][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.05.28-12.16.21:057][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2023.05.28-12.16.21:540][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.28-12.16.21:542][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.28-12.16.21:600][  0]LogSlate: Took 0.015602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.28-12.16.21:836][  0]LogRenderer: Reallocating scene render targets to support 1212x680 Format 10 NumSamples 1 (Frame:1).
+[2023.05.28-12.16.22:044][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.05.28-12.16.22:044][  0]LogLoad: (Engine Initialization) Total time: 11.38 seconds
+[2023.05.28-12.16.22:044][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.28-12.16.22:054][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.05.28-12.16.22:110][  0]LogAssetRegistry: Asset discovery search completed in 7.6108 seconds
+[2023.05.28-12.16.22:113][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2023.05.28-12.16.22:113][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2023.05.28-12.16.22:141][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.28-12.16.22:236][  0]LogSlate: Took 0.034831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.28-12.16.23:075][ 90]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.28-12.16.24:032][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.28-12.16.26:506][424]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-12.16.26:522][424]LogAssetEditorManager: Opening Asset editor for World /Game/NewWorld/NewWorld.NewWorld
+[2023.05.28-12.16.26:568][424]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2023.05.28-12.16.26:569][424]Cmd: MAP LOAD FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.28-12.16.26:569][424]LightingResults: New page: Lighting Build
+[2023.05.28-12.16.26:569][424]LoadErrors: New page: Loading map: NewWorld.umap
+[2023.05.28-12.16.26:636][424]MapCheck: New page: Map Check
+[2023.05.28-12.16.26:636][424]LightingResults: New page: Lighting Build
+[2023.05.28-12.16.26:665][424]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2023.05.28-12.16.26:787][424]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.28-12.16.26:814][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.05.28-12.16.26:827][424]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.28-12.16.26:827][424]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,118ms to complete.
+[2023.05.28-12.16.26:827][424]LogFileHelpers: Loading map 'NewWorld' took 0.259
+[2023.05.28-12.16.35:042][400]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Arcanoid/BP_Ball.BP_Ball
+[2023.05.28-12.16.35:659][400]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2023.05.28-12.16.36:840][400]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Arcanoid/BP_Pawn.BP_Pawn
+[2023.05.28-12.16.37:162][400]LogSlate: Took 0.015952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.28-12.16.37:418][401]LogSlate: Took 0.009641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.28-12.16.38:727][518]LogSlate: Window 'BP_Pawn' being destroyed
+[2023.05.28-12.16.40:487][702]LogSlate: Window 'BP_Pawn' being destroyed
+[2023.05.28-12.16.42:671][963]BlueprintLog: New page: Compile BP_Pawn
+[2023.05.28-12.16.42:923][963]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2023.05.28-12.16.44:984][199]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-12.16.45:002][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.16.45:012][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-12.16.45:027][199]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 18:16:45)
+[2023.05.28-12.16.45:048][199]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-12.16.45:053][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005219s)
+[2023.05.28-12.16.45:053][199]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-12.16.45:054][199]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2023.05.28-12.16.45:054][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.006050s)
+[2023.05.28-12.16.45:098][199]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2023.05.28-12.16.45:115][199]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-12.16.45:129][199]LogInit: FAudioDevice initialized.
+[2023.05.28-12.16.45:133][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.16.45:185][199]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-12.16.45:233][199]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-15.16.45
+[2023.05.28-12.16.45:233][199]LogWorld: Bringing up level for play took: 0.002478
+[2023.05.28-12.16.45:269][199]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2023.05.28-12.16.45:281][199]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2023.05.28-12.16.45:282][199]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.05.28-12.16.45:301][199]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld 1,216
+[2023.05.28-12.16.45:301][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.16.45:364][200]LogRenderer: Reallocating scene render targets to support 1912x1048 Format 10 NumSamples 1 (Frame:1).
+[2023.05.28-12.16.46:072][252]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-12.16.47:897][470]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.16.47:897][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.16.47:904][470]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-12.16.47:936][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-12.16.47:936][470]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.16.48:022][470]LogUObjectHash: Compacting FUObjectHashTables data took   9.14ms
+[2023.05.28-12.16.48:047][471]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.05.28-12.17.30:765][522]BlueprintLog: New page: Compile BP_Ball
+[2023.05.28-12.17.31:010][522]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2023.05.28-12.17.31:105][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Ball" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset" SILENT=true
+[2023.05.28-12.17.31:318][522]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Ball15EAC317496D31C4C1C670B83F1936DC.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset'
+[2023.05.28-12.17.34:050][838]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-12.17.34:062][838]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.17.34:063][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-12.17.34:063][838]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 18:17:34)
+[2023.05.28-12.17.34:063][838]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-12.17.34:067][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004543s)
+[2023.05.28-12.17.34:068][838]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-12.17.34:068][838]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2023.05.28-12.17.34:068][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005230s)
+[2023.05.28-12.17.34:117][838]LogUObjectHash: Compacting FUObjectHashTables data took   9.03ms
+[2023.05.28-12.17.34:121][838]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-12.17.34:135][838]LogInit: FAudioDevice initialized.
+[2023.05.28-12.17.34:138][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.17.34:166][838]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-12.17.34:168][838]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-15.17.34
+[2023.05.28-12.17.34:168][838]LogWorld: Bringing up level for play took: 0.002304
+[2023.05.28-12.17.34:189][838]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld 0,105
+[2023.05.28-12.17.34:190][838]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.17.36:212][ 78]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.17.36:212][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.17.36:219][ 78]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-12.17.36:250][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-12.17.36:251][ 78]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.17.36:306][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2023.05.28-12.17.36:322][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.05.28-12.17.46:916][331]BlueprintLog: New page: Compile BP_Ball
+[2023.05.28-12.17.47:152][331]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2023.05.28-12.17.47:191][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Ball" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset" SILENT=true
+[2023.05.28-12.17.47:218][331]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_BallEFB7DFBE4B24E5A33D3A76AD8DED7E2A.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset'
+[2023.05.28-12.17.48:107][431]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-12.17.48:120][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.17.48:120][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-12.17.48:120][431]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 18:17:48)
+[2023.05.28-12.17.48:120][431]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-12.17.48:124][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004591s)
+[2023.05.28-12.17.48:125][431]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-12.17.48:125][431]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2023.05.28-12.17.48:125][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005218s)
+[2023.05.28-12.17.48:176][431]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2023.05.28-12.17.48:181][431]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-12.17.48:194][431]LogInit: FAudioDevice initialized.
+[2023.05.28-12.17.48:199][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.17.48:230][431]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-12.17.48:233][431]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-15.17.48
+[2023.05.28-12.17.48:234][431]LogWorld: Bringing up level for play took: 0.002410
+[2023.05.28-12.17.48:246][431]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.28-12.17.48:257][431]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld 0,172
+[2023.05.28-12.17.48:257][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.17.50:167][646]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.17.50:167][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.17.50:174][646]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-12.17.50:210][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-12.17.50:211][646]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.17.50:268][646]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2023.05.28-12.17.50:283][647]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.05.28-12.17.57:813][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.28-12.17.57:888][529]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-12.17.57:902][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.17.57:902][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-12.17.57:902][529]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 18:17:57)
+[2023.05.28-12.17.57:902][529]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-12.17.57:906][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004379s)
+[2023.05.28-12.17.57:907][529]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-12.17.57:907][529]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2023.05.28-12.17.57:907][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005015s)
+[2023.05.28-12.17.57:952][529]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2023.05.28-12.17.57:956][529]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-12.17.57:970][529]LogInit: FAudioDevice initialized.
+[2023.05.28-12.17.57:974][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.17.58:007][529]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-12.17.58:009][529]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-15.17.58
+[2023.05.28-12.17.58:010][529]LogWorld: Bringing up level for play took: 0.002452
+[2023.05.28-12.17.58:032][529]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld -0,053
+[2023.05.28-12.17.58:032][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.17.59:879][746]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.17.59:879][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.17.59:886][746]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-12.17.59:923][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-12.17.59:924][746]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.17.59:987][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.05.28-12.18.00:012][747]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.05.28-12.18.06:873][561]BlueprintLog: New page: Compile BP_Ball
+[2023.05.28-12.18.07:109][561]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2023.05.28-12.18.07:148][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Ball" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset" SILENT=true
+[2023.05.28-12.18.07:174][561]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Ball973602834D1DE462E37937895675D138.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset'
+[2023.05.28-12.18.08:386][701]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-12.18.08:399][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.18.08:399][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-12.18.08:399][701]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 18:18:08)
+[2023.05.28-12.18.08:399][701]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-12.18.08:404][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004552s)
+[2023.05.28-12.18.08:404][701]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-12.18.08:404][701]LogPlayLevel: PIE: World Init took: (0.000496s)
+[2023.05.28-12.18.08:404][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005180s)
+[2023.05.28-12.18.08:456][701]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2023.05.28-12.18.08:462][701]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-12.18.08:475][701]LogInit: FAudioDevice initialized.
+[2023.05.28-12.18.08:480][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.18.08:509][701]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-12.18.08:511][701]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-15.18.08
+[2023.05.28-12.18.08:512][701]LogWorld: Bringing up level for play took: 0.002460
+[2023.05.28-12.18.08:534][701]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld 0,449
+[2023.05.28-12.18.08:534][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.18.09:471][811]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-12.18.11:655][ 73]LogBlueprintUserMessages: [BP_CubeChild_C_28] 1
+[2023.05.28-12.18.13:172][255]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.18.13:172][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.18.13:179][255]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-12.18.13:210][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-12.18.13:210][255]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.18.13:270][255]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2023.05.28-12.18.13:286][256]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.05.28-12.19.46:140][356]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-12.19.46:154][356]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.19.46:154][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-12.19.46:154][356]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 18:19:46)
+[2023.05.28-12.19.46:154][356]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-12.19.46:159][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004692s)
+[2023.05.28-12.19.46:159][356]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-12.19.46:160][356]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2023.05.28-12.19.46:160][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005426s)
+[2023.05.28-12.19.46:206][356]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2023.05.28-12.19.46:209][356]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-12.19.46:223][356]LogInit: FAudioDevice initialized.
+[2023.05.28-12.19.46:227][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.19.46:259][356]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-12.19.46:262][356]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-15.19.46
+[2023.05.28-12.19.46:263][356]LogWorld: Bringing up level for play took: 0.002495
+[2023.05.28-12.19.46:275][356]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.28-12.19.46:285][356]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld 0,2
+[2023.05.28-12.19.46:285][356]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.19.47:227][458]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-12.19.49:414][681]LogBlueprintUserMessages: [BP_CubeChild_C_28] 1
+[2023.05.28-12.19.57:742][562]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.19.57:742][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.19.57:749][562]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-12.19.57:782][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-12.19.57:782][562]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.19.57:836][562]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2023.05.28-12.19.57:850][563]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.05.28-12.19.59:102][713]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-12.19.59:115][713]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.19.59:115][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-12.19.59:115][713]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 18:19:59)
+[2023.05.28-12.19.59:115][713]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-12.19.59:120][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004492s)
+[2023.05.28-12.19.59:120][713]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-12.19.59:120][713]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2023.05.28-12.19.59:120][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005131s)
+[2023.05.28-12.19.59:163][713]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2023.05.28-12.19.59:167][713]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-12.19.59:181][713]LogInit: FAudioDevice initialized.
+[2023.05.28-12.19.59:185][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.19.59:217][713]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-12.19.59:220][713]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-15.19.59
+[2023.05.28-12.19.59:220][713]LogWorld: Bringing up level for play took: 0.002442
+[2023.05.28-12.19.59:232][713]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.28-12.19.59:242][713]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld -0,843
+[2023.05.28-12.19.59:242][713]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.20.00:188][783]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-12.20.02:370][ 44]LogBlueprintUserMessages: [BP_CubeChild_C_28] 1
+[2023.05.28-12.20.14:032][393]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-12.20.14:034][393]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.20.14:064][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-12.20.14:064][393]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.20.14:124][393]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2023.05.28-12.20.14:137][394]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.05.28-12.20.19:504][ 15]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-12.20.19:517][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.20.19:517][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-12.20.19:517][ 15]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 18:20:19)
+[2023.05.28-12.20.19:517][ 15]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-12.20.19:522][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004516s)
+[2023.05.28-12.20.19:522][ 15]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-12.20.19:523][ 15]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2023.05.28-12.20.19:523][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005205s)
+[2023.05.28-12.20.19:568][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2023.05.28-12.20.19:572][ 15]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-12.20.19:585][ 15]LogInit: FAudioDevice initialized.
+[2023.05.28-12.20.19:589][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.20.19:619][ 15]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-12.20.19:622][ 15]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-15.20.19
+[2023.05.28-12.20.19:622][ 15]LogWorld: Bringing up level for play took: 0.002449
+[2023.05.28-12.20.19:634][ 15]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.28-12.20.19:644][ 15]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld -0,441
+[2023.05.28-12.20.19:644][ 15]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.20.20:589][ 75]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-12.20.22:828][342]LogBlueprintUserMessages: [BP_CubeChild_C_28] 1
+[2023.05.28-12.20.31:400][324]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.28-12.20.31:404][324]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.20.31:438][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-12.20.31:438][324]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.20.31:496][324]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2023.05.28-12.20.31:533][325]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.05.28-12.20.37:851][ 79]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.28-12.20.37:865][ 79]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.20.37:865][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-12.20.37:865][ 79]PIE: New page: PIE session: NewWorld (28 мая 2023 г., 18:20:37)
+[2023.05.28-12.20.37:865][ 79]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_NewWorld
+[2023.05.28-12.20.37:869][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004394s)
+[2023.05.28-12.20.37:870][ 79]LogAIModule: Creating AISystem for world NewWorld
+[2023.05.28-12.20.37:870][ 79]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2023.05.28-12.20.37:870][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/NewWorld.NewWorld to /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld (0.005066s)
+[2023.05.28-12.20.37:919][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.05.28-12.20.37:923][ 79]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.28-12.20.37:936][ 79]LogInit: FAudioDevice initialized.
+[2023.05.28-12.20.37:940][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-12.20.37:970][ 79]LogLoad: Game class is 'GameModeBase'
+[2023.05.28-12.20.37:973][ 79]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.05.28-15.20.37
+[2023.05.28-12.20.37:974][ 79]LogWorld: Bringing up level for play took: 0.002452
+[2023.05.28-12.20.37:985][ 79]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.28-12.20.37:995][ 79]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_NewWorld -0,089
+[2023.05.28-12.20.37:995][ 79]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/NewWorld/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/NewWorld/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2023.05.28-12.20.38:935][136]LogBlueprintUserMessages: [BP_CubeChild_C_36] 1
+[2023.05.28-12.20.41:118][396]LogBlueprintUserMessages: [BP_CubeChild_C_28] 1
+[2023.05.28-12.20.56:531][237]LogUObjectArray: Warning: Other object in slot
+[2023.05.28-12.20.56:543][237]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.05.28-12.20.57:659][237]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.116 s
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: === Handled ensure: ===
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: 
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: Stack: 
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffa9e5c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffa96d6fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffa96d782d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffa96e4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffa63e37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffa4e15cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffa4dd1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffae8d5984 UE4Editor-Slate.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffaeac15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffae91d70b UE4Editor-Slate.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffae8faf5a UE4Editor-Slate.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffae8f0287 UE4Editor-Slate.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffb0d1b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffb0d0ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffb0d1d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffb0d0c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffd9bd6cc1 USER32.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffd9bd6693 USER32.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffb0d1e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007ff77ecb5d3e UE4Editor.exe!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007ff77ecc554c UE4Editor.exe!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007ff77ecc55ca UE4Editor.exe!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007ff77ecd316c UE4Editor.exe!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007ff77ecd5b8e UE4Editor.exe!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffd9d63034 KERNEL32.DLL!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: [Callstack] 0x00007fffdc771431 ntdll.dll!UnknownFunction []
+[2023.05.28-12.20.57:659][237]LogOutputDevice: Error: 
+[2023.05.28-12.20.57:694][237]LogStats:                SubmitErrorReport -  0.000 s
