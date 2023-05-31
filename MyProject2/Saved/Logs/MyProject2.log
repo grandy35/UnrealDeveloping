@@ -4953,3 +4953,18 @@ Script call stack:
 [2023.05.31-21.50.47:503][109]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/NewWorld_Auto2A33E7F3541B877855D8E95B1E6249D9F.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/NewWorld_Auto2.umap'
 [2023.05.31-21.50.47:505][109]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewWorld/NewWorld' took 0.320
 [2023.05.31-21.50.47:505][109]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.320
+[2023.05.31-21.53.30:333][249]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2023.05.31-21.53.31:411][249]LogSlate: Window 'Save Content' being destroyed
+[2023.05.31-21.53.31:424][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/NewWorld" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.31-21.53.31:502][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.05.31-21.53.31:761][249]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/NewWorld20CD0AD140B0DA8113FBEE8D183A15CA.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/NewWorld.umap'
+[2023.05.31-21.53.31:782][249]LogFileHelpers: Saving map 'NewWorld' took 0.358
+[2023.05.31-21.53.32:033][249]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.31-21.53.32:141][249]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.31-21.53.32:216][249]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.31-21.53.32:279][249]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2023.05.31-21.53.32:280][249]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.05.31-21.53.32:650][250]Cmd: QUIT_EDITOR
+[2023.05.31-21.53.34:031][250]LogExit: Preparing to exit.
+[2023.05.31-21.53.35:905][250]LogExit: Editor shut down
+[2023.05.31-21.53.35:906][250]LogExit: Transaction tracking system shut down
