@@ -2555,3 +2555,18 @@ Script Stack (0 frames):
 [2023.06.01-23.46.39:850][596]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
 [2023.06.01-23.46.39:880][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
 [2023.06.01-23.46.59:802][825]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.06.01-23.47.39:278][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.06.01-23.47.39:296][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/NewWorld" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/NewWorld_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.01-23.47.39:513][311]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/NewWorld_Auto300E867164AB28F64F8E186A2F9B7E7FB.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/NewWorld_Auto3.umap'
+[2023.06.01-23.47.39:542][311]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewWorld/NewWorld' took 0.301
+[2023.06.01-23.47.39:542][311]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.301
+[2023.06.01-23.47.39:544][311]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Arcanoid/ThePawn/BP_Pawn] ([1] browsable assets)...
+[2023.06.01-23.47.39:544][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/ThePawn/BP_Pawn]
+[2023.06.01-23.47.39:610][311]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn_Auto33FBE3C5941051EB0A44DAE8F35DF58AE.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/ThePawn/BP_Pawn_Auto3.uasset'
+[2023.06.01-23.47.39:619][311]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Arcanoid/ThePawn/BP_MyPlayerConroller] ([1] browsable assets)...
+[2023.06.01-23.47.39:619][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/ThePawn/BP_MyPlayerConroller]
+[2023.06.01-23.47.39:636][311]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConroller_Auto3A6EEAF7C41AECCEBB481B0BC045409DE.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/ThePawn/BP_MyPlayerConroller_Auto3.uasset'
+[2023.06.01-23.47.39:647][311]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game] ([1] browsable assets)...
+[2023.06.01-23.47.39:647][311]OBJ SavePackage: Finished generating thumbnails for package [/Engine/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game]
+[2023.06.01-23.47.39:659][311]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/RenderToTexture_Game_Auto34E2681AB4951101C789D9E9A16001645.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Engine/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game_Auto3.uasset'
+[2023.06.01-23.47.39:659][311]LogFileHelpers: Auto-saving content packages took 0.116
