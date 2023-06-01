@@ -2570,3 +2570,578 @@ Script Stack (0 frames):
 [2023.06.01-23.47.39:647][311]OBJ SavePackage: Finished generating thumbnails for package [/Engine/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game]
 [2023.06.01-23.47.39:659][311]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/RenderToTexture_Game_Auto34E2681AB4951101C789D9E9A16001645.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Engine/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game_Auto3.uasset'
 [2023.06.01-23.47.39:659][311]LogFileHelpers: Auto-saving content packages took 0.116
+[2023.06.01-23.48.26:939][302]LogAssetEditorManager: Opening Asset editor for World /Game/NewWorld/NewWorld.NewWorld
+[2023.06.01-23.48.26:979][302]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2023.06.01-23.48.28:716][302]LogSlate: Window 'Save Content' being destroyed
+[2023.06.01-23.48.28:721][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game" FILE="../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset" SILENT=true
+[2023.06.01-23.48.28:732][302]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/RenderToTexture_GameC674BF594887BA3DDFF6C6906C654A26.tmp' to '../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset'
+[2023.06.01-23.48.28:751][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_MyPlayerConroller" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_MyPlayerConroller.uasset" SILENT=true
+[2023.06.01-23.48.28:771][302]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConroller9CFEC1084E1B877C983F0BAB746F96AE.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_MyPlayerConroller.uasset'
+[2023.06.01-23.48.28:772][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.01-23.48.28:836][302]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnA69936A1477B5287F6384B8FA0A96309.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.01-23.48.28:837][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/NewWorld" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.01-23.48.28:873][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.06.01-23.48.29:096][302]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/NewWorldB1C8B7F54BD0873140116EB31970F5B2.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/NewWorld.umap'
+[2023.06.01-23.48.29:112][302]LogFileHelpers: Saving map 'NewWorld' took 0.276
+[2023.06.01-23.48.29:116][302]Cmd: MAP LOAD FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.01-23.48.29:116][302]LightingResults: New page: Lighting Build
+[2023.06.01-23.48.29:117][302]LoadErrors: New page: Loading map: NewWorld.umap
+[2023.06.01-23.48.29:118][302]MapCheck: New page: Map Check
+[2023.06.01-23.48.29:118][302]LightingResults: New page: Lighting Build
+[2023.06.01-23.48.29:157][302]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2023.06.01-23.48.29:339][302]LogAIModule: Creating AISystem for world NewWorld
+[2023.06.01-23.48.29:477][302]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.01-23.48.29:516][302]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2023.06.01-23.48.29:534][302]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.01-23.48.29:534][302]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,074ms to complete.
+[2023.06.01-23.48.29:535][302]LogFileHelpers: Loading map 'NewWorld' took 0.420
+[2023.06.01-23.48.34:134][833]LogAIModule: Creating AISystem for world Menu
+[2023.06.01-23.48.34:138][833]LogAssetEditorManager: Opening Asset editor for World /Game/NewWorld/Menu.Menu
+[2023.06.01-23.48.34:177][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2023.06.01-23.48.34:178][833]Cmd: MAP LOAD FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.01-23.48.34:179][833]LightingResults: New page: Lighting Build
+[2023.06.01-23.48.34:179][833]LoadErrors: New page: Loading map: Menu.umap
+[2023.06.01-23.48.34:180][833]MapCheck: New page: Map Check
+[2023.06.01-23.48.34:180][833]LightingResults: New page: Lighting Build
+[2023.06.01-23.48.34:223][833]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2023.06.01-23.48.34:310][833]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.01-23.48.34:347][833]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2023.06.01-23.48.34:363][833]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.01-23.48.34:363][833]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,081ms to complete.
+[2023.06.01-23.48.34:363][833]LogFileHelpers: Loading map 'Menu' took 0.186
+[2023.06.01-23.48.40:772][596]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.01-23.48.40:781][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.48.40:781][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-23.48.40:781][596]PIE: New page: PIE session: Menu (2 июня 2023 г., 5:48:40)
+[2023.06.01-23.48.40:781][596]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_Menu
+[2023.06.01-23.48.40:785][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003289s)
+[2023.06.01-23.48.40:785][596]LogAIModule: Creating AISystem for world Menu
+[2023.06.01-23.48.40:785][596]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2023.06.01-23.48.40:785][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/Menu.Menu to /Game/NewWorld/UEDPIE_0_Menu.Menu (0.003908s)
+[2023.06.01-23.48.40:819][596]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2023.06.01-23.48.40:823][596]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.01-23.48.40:837][596]LogInit: FAudioDevice initialized.
+[2023.06.01-23.48.40:841][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-23.48.40:871][596]LogLoad: Game class is 'BP_GameMode_Menu_C'
+[2023.06.01-23.48.40:873][596]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.06.02-02.48.40
+[2023.06.01-23.48.40:873][596]LogWorld: Bringing up level for play took: 0.001029
+[2023.06.01-23.48.40:888][596]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_Menu -0,392
+[2023.06.01-23.48.40:888][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.48.46:957][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.48.46:957][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-23.48.46:966][321]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.01-23.48.46:994][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-23.48.46:995][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.48.47:044][321]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2023.06.01-23.48.47:060][322]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.06.01-23.49.06:934][693]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Arcanoid/MENU/BP_PlayerControler_Menu.BP_PlayerControler_Menu
+[2023.06.01-23.49.09:904][962]LogSlate: Window 'BP_PlayerControler_Menu' being destroyed
+[2023.06.01-23.49.11:328][130]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Arcanoid/MENU/BP_GameMode_Menu.BP_GameMode_Menu
+[2023.06.01-23.49.47:649][399]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.01-23.49.47:668][399]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.49.47:669][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-23.49.47:669][399]PIE: New page: PIE session: Menu (2 июня 2023 г., 5:49:47)
+[2023.06.01-23.49.47:669][399]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_Menu
+[2023.06.01-23.49.47:672][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003378s)
+[2023.06.01-23.49.47:673][399]LogAIModule: Creating AISystem for world Menu
+[2023.06.01-23.49.47:673][399]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2023.06.01-23.49.47:673][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/Menu.Menu to /Game/NewWorld/UEDPIE_0_Menu.Menu (0.004137s)
+[2023.06.01-23.49.47:714][399]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2023.06.01-23.49.47:718][399]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.01-23.49.47:732][399]LogInit: FAudioDevice initialized.
+[2023.06.01-23.49.47:737][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-23.49.47:769][399]LogLoad: Game class is 'BP_GameMode_Menu_C'
+[2023.06.01-23.49.47:771][399]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.06.02-02.49.47
+[2023.06.01-23.49.47:771][399]LogWorld: Bringing up level for play took: 0.001089
+[2023.06.01-23.49.47:785][399]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_Menu 0,505
+[2023.06.01-23.49.47:786][399]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.50.00:431][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.50.00:431][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-23.50.00:441][906]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.01-23.50.00:473][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-23.50.00:473][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.50.00:525][906]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.06.01-23.50.00:543][907]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.06.01-23.50.15:737][717]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.06.01-23.50.32:894][762]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.01-23.50.32:913][762]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.50.32:913][762]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.06.01-23.50.32:914][762]LogPlayLevel: [PlayLevel] Compiling BP_GameMode_Menu before play...
+[2023.06.01-23.50.33:092][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/MENU/BP_GameMode_Menu" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/MENU/BP_GameMode_Menu.uasset" SILENT=true
+[2023.06.01-23.50.33:106][762]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_GameMode_Menu0C6FFAC4450363B19629C0A4963D63D9.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/MENU/BP_GameMode_Menu.uasset'
+[2023.06.01-23.50.33:154][762]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2023.06.01-23.50.33:154][762]LogPlayLevel: PlayLevel: Blueprint regeneration took 239 ms (1 blueprints)
+[2023.06.01-23.50.33:154][762]PIE: New page: PIE session: Menu (2 июня 2023 г., 5:50:33)
+[2023.06.01-23.50.33:154][762]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_Menu
+[2023.06.01-23.50.33:157][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003243s)
+[2023.06.01-23.50.33:158][762]LogAIModule: Creating AISystem for world Menu
+[2023.06.01-23.50.33:158][762]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2023.06.01-23.50.33:158][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/Menu.Menu to /Game/NewWorld/UEDPIE_0_Menu.Menu (0.003930s)
+[2023.06.01-23.50.33:201][762]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.06.01-23.50.33:205][762]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.01-23.50.33:219][762]LogInit: FAudioDevice initialized.
+[2023.06.01-23.50.33:223][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-23.50.33:253][762]LogLoad: Game class is 'BP_GameMode_Menu_C'
+[2023.06.01-23.50.33:255][762]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.06.02-02.50.33
+[2023.06.01-23.50.33:255][762]LogWorld: Bringing up level for play took: 0.000987
+[2023.06.01-23.50.33:268][762]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.06.01-23.50.33:270][762]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_Menu -0,01
+[2023.06.01-23.50.33:270][762]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.50.34:634][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.01-23.50.34:685][929]LogNet: Browse: /Game/NewWorld/NewWorld
+[2023.06.01-23.50.34:685][929]LogLoad: LoadMap: /Game/NewWorld/NewWorld
+[2023.06.01-23.50.34:729][929]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2023.06.01-23.50.34:762][929]LogAIModule: Creating AISystem for world NewWorld
+[2023.06.01-23.50.34:762][929]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.01-23.50.34:776][929]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.06.02-02.50.34
+[2023.06.01-23.50.34:777][929]LogWorld: Bringing up level for play took: 0.014467
+[2023.06.01-23.50.34:777][929]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.01-23.50.34:777][929]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.01-23.50.34:777][929]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.01-23.50.34:777][929]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.01-23.50.34:786][929]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.01-23.50.34:786][929]LogLoad: Took 0.101519 seconds to LoadMap(/Game/NewWorld/NewWorld)
+[2023.06.01-23.50.40:184][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.50.40:185][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-23.50.40:194][576]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.01-23.50.40:223][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-23.50.40:223][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.50.40:274][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2023.06.01-23.50.40:296][577]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.06.01-23.51.13:351][519]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.01-23.51.13:369][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.51.13:370][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-23.51.13:370][519]PIE: New page: PIE session: Menu (2 июня 2023 г., 5:51:13)
+[2023.06.01-23.51.13:370][519]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_Menu
+[2023.06.01-23.51.13:373][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003438s)
+[2023.06.01-23.51.13:374][519]LogAIModule: Creating AISystem for world Menu
+[2023.06.01-23.51.13:374][519]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2023.06.01-23.51.13:374][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/Menu.Menu to /Game/NewWorld/UEDPIE_0_Menu.Menu (0.004118s)
+[2023.06.01-23.51.13:416][519]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2023.06.01-23.51.13:420][519]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.01-23.51.13:433][519]LogInit: FAudioDevice initialized.
+[2023.06.01-23.51.13:437][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-23.51.13:464][519]LogLoad: Game class is 'BP_GameMode_Menu_C'
+[2023.06.01-23.51.13:466][519]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.06.02-02.51.13
+[2023.06.01-23.51.13:466][519]LogWorld: Bringing up level for play took: 0.001107
+[2023.06.01-23.51.13:480][519]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.06.01-23.51.13:482][519]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_Menu 0,201
+[2023.06.01-23.51.13:482][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.51.22:716][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.01-23.51.22:775][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-23.51.22:775][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.51.22:784][627]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.01-23.51.22:815][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-23.51.22:816][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.51.22:865][627]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.06.01-23.51.22:881][628]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2023.06.01-23.51.23:877][747]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.01-23.51.23:896][747]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.51.23:896][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-23.51.23:896][747]PIE: New page: PIE session: Menu (2 июня 2023 г., 5:51:23)
+[2023.06.01-23.51.23:896][747]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_Menu
+[2023.06.01-23.51.23:899][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003298s)
+[2023.06.01-23.51.23:900][747]LogAIModule: Creating AISystem for world Menu
+[2023.06.01-23.51.23:900][747]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2023.06.01-23.51.23:900][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/Menu.Menu to /Game/NewWorld/UEDPIE_0_Menu.Menu (0.003982s)
+[2023.06.01-23.51.23:940][747]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2023.06.01-23.51.23:944][747]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.01-23.51.23:957][747]LogInit: FAudioDevice initialized.
+[2023.06.01-23.51.23:962][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-23.51.23:992][747]LogLoad: Game class is 'BP_GameMode_Menu_C'
+[2023.06.01-23.51.23:994][747]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.06.02-02.51.23
+[2023.06.01-23.51.23:994][747]LogWorld: Bringing up level for play took: 0.001016
+[2023.06.01-23.51.24:008][747]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.06.01-23.51.24:010][747]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_Menu 0,73
+[2023.06.01-23.51.24:010][747]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.51.25:246][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.01-23.51.25:289][898]LogNet: Browse: /Game/NewWorld/NewWorld
+[2023.06.01-23.51.25:289][898]LogLoad: LoadMap: /Game/NewWorld/NewWorld
+[2023.06.01-23.51.25:335][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2023.06.01-23.51.25:347][898]LogAIModule: Creating AISystem for world NewWorld
+[2023.06.01-23.51.25:347][898]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.01-23.51.25:362][898]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.06.02-02.51.25
+[2023.06.01-23.51.25:362][898]LogWorld: Bringing up level for play took: 0.014092
+[2023.06.01-23.51.25:362][898]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.01-23.51.25:363][898]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.01-23.51.25:363][898]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.01-23.51.25:363][898]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.01-23.51.25:372][898]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.01-23.51.25:372][898]LogLoad: Took 0.083815 seconds to LoadMap(/Game/NewWorld/NewWorld)
+[2023.06.01-23.51.38:482][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.51.38:482][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-23.51.38:492][469]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.01-23.51.38:525][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-23.51.38:526][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.01-23.51.38:584][469]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.06.01-23.51.38:605][470]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2023.06.01-23.52.04:372][550]LogAIModule: Creating AISystem for world NewWorld
+[2023.06.01-23.52.04:600][550]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2023.06.01-23.52.04:602][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/LVL_1" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/LVL_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.01-23.52.04:652][550]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/LVL_11A73CC7A43058CA7010788849948665A.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/LVL_1.umap'
+[2023.06.01-23.52.04:652][550]LogFileHelpers: Saving map 'LVL_1' took 0.050
+[2023.06.01-23.52.04:653][550]LogMetaData: Removing '/Game/NewWorld/LVL_1.LVL_1_C' ref from Metadata '/Game/NewWorld/NewWorld.PackageMetaData'
+[2023.06.01-23.52.04:654][550]LogMetaData: Removing '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1.EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewWorld/NewWorld.PackageMetaData'
+[2023.06.01-23.52.04:654][550]LogMetaData: Removing '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1.EventGraph.K2Node_Event_1' ref from Metadata '/Game/NewWorld/NewWorld.PackageMetaData'
+[2023.06.01-23.52.04:654][550]LogMetaData: Removing '/Game/NewWorld/LVL_1.SKEL_LVL_1_C' ref from Metadata '/Game/NewWorld/NewWorld.PackageMetaData'
+[2023.06.01-23.52.04:698][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/LVL_1" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/LVL_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.01-23.52.04:757][550]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2023.06.01-23.52.05:005][550]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/LVL_10A6E88FC40DDD156CE61979D787F6745.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/LVL_1.umap'
+[2023.06.01-23.52.05:018][550]LogFileHelpers: Saving map 'LVL_1' took 0.320
+[2023.06.01-23.52.05:191][550]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2023.06.01-23.52.05:241][550]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2023.06.01-23.52.05:279][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.06.01-23.52.37:884][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.06.01-23.52.38:778][447]LogSlate: Window 'Save Content' being destroyed
+[2023.06.01-23.52.38:788][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/Menu" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.01-23.52.38:827][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.06.01-23.52.39:032][447]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Menu4339EC7845BDAE316840C19F62A69DAA.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/Menu.umap'
+[2023.06.01-23.52.39:049][447]LogFileHelpers: Saving map 'Menu' took 0.260
+[2023.06.01-23.52.39:213][447]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.01-23.52.39:276][447]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2023.06.01-23.52.39:277][447]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.01-23.52.39:540][448]Cmd: QUIT_EDITOR
+[2023.06.01-23.52.40:122][448]LogExit: Preparing to exit.
+[2023.06.01-23.52.40:519][448]LogExit: Editor shut down
+[2023.06.01-23.52.40:519][448]LogExit: Transaction tracking system shut down
+[2023.06.01-23.52.40:834][448]LogExit: Object subsystem successfully closed.
+[2023.06.01-23.52.40:856][448]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.06.01-23.52.40:866][448]LogD3D11RHI: Shutdown
+[2023.06.01-23.52.40:866][448]LogD3D11RHI: CleanupD3DDevice
+[2023.06.01-23.52.40:866][448]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2023.06.01-23.52.40:866][448]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2023.06.01-23.52.40:866][448]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2023.06.01-23.52.40:866][448]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2023.06.01-23.52.40:866][448]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2023.06.01-23.52.40:866][448]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2023.06.01-23.52.41:500][448]LogD3D11RHI: ~FD3D11DynamicRHI
+[2023.06.01-23.52.41:528][448]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (656)
+[2023.06.01-23.52.41:528][448]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (654)
+[2023.06.01-23.52.41:528][448]LogModuleManager: Shutting down and abandoning module Voice (652)
+[2023.06.01-23.52.41:528][448]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (650)
+[2023.06.01-23.52.41:528][448]LogModuleManager: Shutting down and abandoning module NewLevelDialog (648)
+[2023.06.01-23.52.41:528][448]LogModuleManager: Shutting down and abandoning module SequencerWidgets (646)
+[2023.06.01-23.52.41:528][448]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2023.06.01-23.52.41:528][448]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2023.06.01-23.52.41:528][448]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2023.06.01-23.52.41:528][448]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2023.06.01-23.52.41:539][448]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2023.06.01-23.52.41:539][448]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2023.06.01-23.52.41:539][448]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2023.06.01-23.52.41:539][448]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2023.06.01-23.52.41:539][448]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2023.06.01-23.52.41:540][448]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2023.06.01-23.52.41:541][448]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2023.06.01-23.52.41:541][448]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2023.06.01-23.52.41:541][448]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2023.06.01-23.52.41:554][448]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2023.06.01-23.52.41:554][448]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2023.06.01-23.52.41:554][448]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2023.06.01-23.52.41:554][448]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2023.06.01-23.52.41:554][448]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2023.06.01-23.52.41:554][448]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2023.06.01-23.52.42:432][448]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2023.06.01-23.52.42:433][448]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2023.06.01-23.52.42:433][448]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2023.06.01-23.52.42:433][448]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2023.06.01-23.52.42:433][448]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2023.06.01-23.52.42:433][448]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2023.06.01-23.52.42:433][448]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2023.06.01-23.52.42:433][448]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2023.06.01-23.52.42:466][448]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2023.06.01-23.52.42:466][448]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2023.06.01-23.52.42:466][448]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2023.06.01-23.52.42:466][448]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2023.06.01-23.52.42:466][448]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2023.06.01-23.52.42:466][448]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2023.06.01-23.52.42:466][448]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2023.06.01-23.52.42:466][448]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2023.06.01-23.52.42:466][448]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2023.06.01-23.52.42:466][448]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2023.06.01-23.52.42:466][448]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2023.06.01-23.52.42:475][448]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2023.06.01-23.52.42:475][448]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2023.06.01-23.52.42:477][448]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2023.06.01-23.52.42:480][448]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2023.06.01-23.52.42:585][448]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2023.06.01-23.52.42:586][448]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2023.06.01-23.52.42:688][448]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2023.06.01-23.52.42:789][448]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2023.06.01-23.52.42:789][448]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2023.06.01-23.52.42:789][448]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2023.06.01-23.52.42:789][448]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2023.06.01-23.52.42:789][448]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2023.06.01-23.52.42:789][448]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.06.01-23.52.42:789][448]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2023.06.01-23.52.42:789][448]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2023.06.01-23.52.42:789][448]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2023.06.01-23.52.42:789][448]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2023.06.01-23.52.42:789][448]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2023.06.01-23.52.42:789][448]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2023.06.01-23.52.42:789][448]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2023.06.01-23.52.42:789][448]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2023.06.01-23.52.42:790][448]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2023.06.01-23.52.42:790][448]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2023.06.01-23.52.42:790][448]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2023.06.01-23.52.42:790][448]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2023.06.01-23.52.42:790][448]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2023.06.01-23.52.42:792][448]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module Core (174)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2023.06.01-23.52.42:794][448]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2023.06.01-23.52.42:851][448]LogDerivedDataCache: Shutdown
+[2023.06.01-23.52.42:851][448]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2023.06.01-23.52.42:851][448]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2023.06.01-23.52.42:851][448]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2023.06.01-23.52.42:851][448]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2023.06.01-23.52.42:851][448]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2023.06.01-23.52.42:851][448]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2023.06.01-23.52.42:851][448]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2023.06.01-23.52.42:851][448]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2023.06.01-23.52.42:851][448]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2023.06.01-23.52.42:851][448]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2023.06.01-23.52.42:851][448]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2023.06.01-23.52.42:852][448]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2023.06.01-23.52.42:852][448]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2023.06.01-23.52.42:852][448]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2023.06.01-23.52.42:852][448]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2023.06.01-23.52.42:852][448]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2023.06.01-23.52.42:852][448]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2023.06.01-23.52.42:852][448]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2023.06.01-23.52.42:852][448]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2023.06.01-23.52.42:853][448]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2023.06.01-23.52.42:853][448]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2023.06.01-23.52.42:853][448]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2023.06.01-23.52.42:853][448]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2023.06.01-23.52.42:853][448]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2023.06.01-23.52.42:853][448]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2023.06.01-23.52.42:854][448]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2023.06.01-23.52.42:854][448]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2023.06.01-23.52.42:862][448]LogHMD: Freeing OpenVRDLLHandle.
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2023.06.01-23.52.42:862][448]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2023.06.01-23.52.42:863][448]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2023.06.01-23.52.42:863][448]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2023.06.01-23.52.42:882][448]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2023.06.01-23.52.42:882][448]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.06.01-23.52.42:882][448]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B886B5689-4848-B182-60CD-2AB876058356%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=642d1411409a498ca5de0ba8f3835fe6%7C83b102566639444fb4543deadb990bd9%7Cf89d74b7-24e5-4c9d-ad6e-993df81d46a7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2023.06.01-23.52.42:909][448]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2023.06.01-23.52.42:911][448]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2023.06.01-23.52.42:912][448]LogModuleManager: Shutting down and abandoning module Media (45)
+[2023.06.01-23.52.42:918][448]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2023.06.01-23.52.42:918][448]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2023.06.01-23.52.42:918][448]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.06.01-23.52.42:919][448]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.06.01-23.52.42:919][448]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2023.06.01-23.52.42:919][448]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2023.06.01-23.52.42:919][448]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2023.06.01-23.52.42:919][448]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2023.06.01-23.52.42:919][448]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2023.06.01-23.52.42:920][448]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2023.06.01-23.52.42:920][448]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2023.06.01-23.52.42:920][448]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.06.01-23.52.42:920][448]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.06.01-23.52.42:920][448]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.06.01-23.52.42:920][448]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.06.01-23.52.42:920][448]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.06.01-23.52.42:920][448]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.06.01-23.52.42:920][448]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.06.01-23.52.42:920][448]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.06.01-23.52.42:920][448]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.06.01-23.52.42:920][448]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.06.01-23.52.42:924][448]LogExit: Exiting.
+[2023.06.01-23.52.42:941][448]Log file closed, 06/02/23 02:52:42
