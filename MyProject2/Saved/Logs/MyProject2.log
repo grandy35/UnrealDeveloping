@@ -2568,3 +2568,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.02-14.54.53:702][670]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
 [2023.06.02-14.55.05:478][705]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2023.06.02-14.55.05:479][705]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.02-14.55.30:379][847]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.02-14.55.30:379][847]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.02-14.55.36:527][937]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2023.06.02-14.55.37:854][937]LogSlate: Window 'Save Content' being destroyed
+[2023.06.02-14.55.38:242][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_CubeParent" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_CubeParent.uasset" SILENT=true
+[2023.06.02-14.55.38:267][937]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_CubeParent7B71C34846593AE782F4B29ECDA17D81.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_CubeParent.uasset'
+[2023.06.02-14.55.38:371][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_MyPlayerConroller" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_MyPlayerConroller.uasset" SILENT=true
+[2023.06.02-14.55.38:400][937]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_MyPlayerConrollerA68E588B426A400BBD6B21A7272662B3.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_MyPlayerConroller.uasset'
+[2023.06.02-14.55.38:498][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/LVL_1" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/LVL_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.02-14.55.38:553][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.06.02-14.55.38:843][937]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/LVL_15FB2810B43AA86D03C53E7ABFC971CDC.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/LVL_1.umap'
+[2023.06.02-14.55.38:904][937]LogFileHelpers: Saving map 'LVL_1' took 0.406
+[2023.06.02-14.55.39:178][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.02-14.55.39:324][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.02-14.55.39:393][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.02-14.55.39:463][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.02-14.55.39:530][937]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2023.06.02-14.55.39:971][938]Cmd: QUIT_EDITOR
+[2023.06.02-14.55.40:678][938]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.02-14.55.40:869][938]LogExit: Preparing to exit.
+[2023.06.02-14.55.41:653][938]LogExit: Editor shut down
+[2023.06.02-14.55.41:653][938]LogExit: Transaction tracking system shut down
+[2023.06.02-14.55.42:039][938]LogExit: Object subsystem successfully closed.
+[2023.06.02-14.55.42:059][938]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.06.02-14.55.42:063][938]LogD3D11RHI: Shutdown
+[2023.06.02-14.55.42:063][938]LogD3D11RHI: CleanupD3DDevice
+[2023.06.02-14.55.42:063][938]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2023.06.02-14.55.42:064][938]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2023.06.02-14.55.42:064][938]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2023.06.02-14.55.42:064][938]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2023.06.02-14.55.42:064][938]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2023.06.02-14.55.42:064][938]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
