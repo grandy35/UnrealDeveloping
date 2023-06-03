@@ -587,3 +587,205 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.03-11.01.14:277][357]LogSlate: Window 'BP_PlayerControler_Menu' being destroyed
 [2023.06.03-11.01.15:851][535]LogSlate: Window 'BP_GameMode_Menu' being destroyed
 [2023.06.03-11.01.17:019][659]LogSlate: Window 'BP_GameMode_Menu' being destroyed
+[2023.06.03-11.02.48:121][ 14]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Arcanoid/UI/WBP_HUD.WBP_HUD
+[2023.06.03-11.02.52:035][431]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-11.02.52:146][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.02.52:188][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-11.02.52:232][431]PIE: New page: PIE session: Menu (3 июня 2023 г., 17:02:52)
+[2023.06.03-11.02.52:278][431]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_Menu
+[2023.06.03-11.02.52:325][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047473s)
+[2023.06.03-11.02.52:326][431]LogAIModule: Creating AISystem for world Menu
+[2023.06.03-11.02.52:375][431]LogPlayLevel: PIE: World Init took: (0.049726s)
+[2023.06.03-11.02.52:376][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/Menu.Menu to /Game/NewWorld/UEDPIE_0_Menu.Menu (0.097590s)
+[2023.06.03-11.02.52:503][431]LogUObjectHash: Compacting FUObjectHashTables data took  12.61ms
+[2023.06.03-11.02.52:518][431]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-11.02.52:533][431]LogInit: FAudioDevice initialized.
+[2023.06.03-11.02.52:546][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-11.02.52:668][431]LogLoad: Game class is 'BP_GameMode_Menu_C'
+[2023.06.03-11.02.52:681][431]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.06.03-14.02.52
+[2023.06.03-11.02.52:697][431]LogWorld: Bringing up level for play took: 0.027624
+[2023.06.03-11.02.52:825][431]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2023.06.03-11.02.52:881][431]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2023.06.03-11.02.52:882][431]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.06.03-11.02.52:972][431]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.06.03-11.02.52:977][431]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_Menu -0,108
+[2023.06.03-11.02.52:986][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.02.53:159][432]LogRenderer: Reallocating scene render targets to support 1912x1048 Format 10 NumSamples 1 (Frame:1).
+[2023.06.03-11.02.54:087][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-11.02.54:147][516]LogNet: Browse: /Game/NewWorld/LVL_1
+[2023.06.03-11.02.54:148][516]LogLoad: LoadMap: /Game/NewWorld/LVL_1
+[2023.06.03-11.02.54:259][516]LogUObjectHash: Compacting FUObjectHashTables data took  11.58ms
+[2023.06.03-11.02.56:451][516]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-11.02.56:451][516]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-11.02.56:466][516]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-14.02.56
+[2023.06.03-11.02.56:498][516]LogWorld: Bringing up level for play took: 0.046678
+[2023.06.03-11.02.56:499][516]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.03-11.02.56:518][516]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-11.02.56:518][516]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-11.02.56:518][516]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-11.02.56:550][516]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-11.02.56:568][516]LogLoad: Took 2.420470 seconds to LoadMap(/Game/NewWorld/LVL_1)
+[2023.06.03-11.03.11:321][244]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.06.03-11.03.14:764][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-11.03.14:853][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-11.03.14:863][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.03.14:891][666]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-11.03.14:928][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-11.03.14:929][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.03.15:124][666]LogUObjectHash: Compacting FUObjectHashTables data took  13.32ms
+[2023.06.03-11.03.15:172][667]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.06.03-11.05.22:767][143]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-11.05.22:824][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.05.22:824][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-11.05.22:824][143]PIE: New page: PIE session: Menu (3 июня 2023 г., 17:05:22)
+[2023.06.03-11.05.22:825][143]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_Menu
+[2023.06.03-11.05.22:829][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003667s)
+[2023.06.03-11.05.22:830][143]LogAIModule: Creating AISystem for world Menu
+[2023.06.03-11.05.22:847][143]LogPlayLevel: PIE: World Init took: (0.017751s)
+[2023.06.03-11.05.22:847][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/Menu.Menu to /Game/NewWorld/UEDPIE_0_Menu.Menu (0.022052s)
+[2023.06.03-11.05.22:919][143]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2023.06.03-11.05.22:923][143]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-11.05.22:937][143]LogInit: FAudioDevice initialized.
+[2023.06.03-11.05.22:941][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-11.05.22:970][143]LogLoad: Game class is 'BP_GameMode_Menu_C'
+[2023.06.03-11.05.22:972][143]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.06.03-14.05.22
+[2023.06.03-11.05.22:972][143]LogWorld: Bringing up level for play took: 0.001037
+[2023.06.03-11.05.22:986][143]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.06.03-11.05.22:989][143]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_Menu -0,096
+[2023.06.03-11.05.22:989][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.05.24:016][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-11.05.24:044][249]LogNet: Browse: /Game/NewWorld/LVL_1
+[2023.06.03-11.05.24:044][249]LogLoad: LoadMap: /Game/NewWorld/LVL_1
+[2023.06.03-11.05.24:119][249]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2023.06.03-11.05.24:132][249]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-11.05.24:132][249]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-11.05.24:148][249]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-14.05.24
+[2023.06.03-11.05.24:148][249]LogWorld: Bringing up level for play took: 0.015693
+[2023.06.03-11.05.24:149][249]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.03-11.05.24:149][249]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-11.05.24:149][249]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-11.05.24:149][249]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-11.05.24:159][249]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-11.05.24:159][249]LogLoad: Took 0.114955 seconds to LoadMap(/Game/NewWorld/LVL_1)
+[2023.06.03-11.06.12:203][440]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.06.03-11.06.14:532][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-11.06.14:579][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-11.06.14:579][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.06.14:588][688]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-11.06.14:621][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-11.06.14:622][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.06.14:702][688]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2023.06.03-11.06.14:721][689]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.06.03-11.06.41:415][839]LogSlate: Took 0.058028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.06.03-11.08.29:576][754]BlueprintLog: New page: Compile WBP_Winscreen
+[2023.06.03-11.08.29:721][754]LogUObjectHash: Compacting FUObjectHashTables data took  10.80ms
+[2023.06.03-11.08.29:847][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/UI/WBP_Winscreen" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset" SILENT=true
+[2023.06.03-11.08.29:963][754]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/WBP_WinscreenC84760534B3D8D9939DF6899CBCF46C1.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset'
+[2023.06.03-11.08.47:300][793]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.03-11.08.53:756][567]BlueprintLog: New page: Compile WBP_Winscreen
+[2023.06.03-11.08.53:833][567]LogUObjectHash: Compacting FUObjectHashTables data took  10.58ms
+[2023.06.03-11.08.53:889][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/UI/WBP_Winscreen" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset" SILENT=true
+[2023.06.03-11.08.53:917][567]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/WBP_Winscreen79D8F9554FBC20F84BA795B09F79A014.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset'
+[2023.06.03-11.09.16:911][488]BlueprintLog: New page: Compile WBP_Winscreen
+[2023.06.03-11.09.16:997][488]LogUObjectHash: Compacting FUObjectHashTables data took  10.52ms
+[2023.06.03-11.09.17:017][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/UI/WBP_Winscreen" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset" SILENT=true
+[2023.06.03-11.09.17:045][488]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/WBP_Winscreen6D6EA48443F02295A5B9B9B44EFB5093.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset'
+[2023.06.03-11.11.49:786][559]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-11.11.49:848][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.11.49:848][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-11.11.49:848][559]PIE: New page: PIE session: Menu (3 июня 2023 г., 17:11:49)
+[2023.06.03-11.11.49:848][559]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_Menu
+[2023.06.03-11.11.49:852][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003357s)
+[2023.06.03-11.11.49:852][559]LogAIModule: Creating AISystem for world Menu
+[2023.06.03-11.11.49:852][559]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2023.06.03-11.11.49:853][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/Menu.Menu to /Game/NewWorld/UEDPIE_0_Menu.Menu (0.004040s)
+[2023.06.03-11.11.49:928][559]LogUObjectHash: Compacting FUObjectHashTables data took  10.09ms
+[2023.06.03-11.11.49:933][559]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-11.11.49:947][559]LogInit: FAudioDevice initialized.
+[2023.06.03-11.11.49:952][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-11.11.49:983][559]LogLoad: Game class is 'BP_GameMode_Menu_C'
+[2023.06.03-11.11.49:985][559]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.06.03-14.11.49
+[2023.06.03-11.11.49:986][559]LogWorld: Bringing up level for play took: 0.001259
+[2023.06.03-11.11.50:000][559]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.06.03-11.11.50:002][559]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_Menu 0,917
+[2023.06.03-11.11.50:002][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.11.50:571][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-11.11.50:639][633]LogNet: Browse: /Game/NewWorld/LVL_1
+[2023.06.03-11.11.50:639][633]LogLoad: LoadMap: /Game/NewWorld/LVL_1
+[2023.06.03-11.11.50:710][633]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2023.06.03-11.11.50:726][633]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-11.11.50:726][633]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-11.11.50:742][633]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-14.11.50
+[2023.06.03-11.11.50:742][633]LogWorld: Bringing up level for play took: 0.015089
+[2023.06.03-11.11.50:742][633]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.03-11.11.50:743][633]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-11.11.50:743][633]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-11.11.50:743][633]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-11.11.50:753][633]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-11.11.50:753][633]LogLoad: Took 0.113603 seconds to LoadMap(/Game/NewWorld/LVL_1)
+[2023.06.03-11.11.51:779][755]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.11.51:780][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-11.11.51:789][755]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-11.11.51:823][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-11.11.51:824][755]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.11.51:906][755]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2023.06.03-11.11.51:932][756]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.06.03-11.14.08:513][ 61]LogSlate: Window 'Tutorials' being destroyed
+[2023.06.03-11.14.18:044][162]LogSlate: Window 'Tutorials' being destroyed
+[2023.06.03-11.15.16:331][167]LogSlate: Window 'Tutorials' being destroyed
+[2023.06.03-11.15.21:775][814]BlueprintLog: New page: Compile WBP_Winscreen
+[2023.06.03-11.15.21:930][814]LogUObjectHash: Compacting FUObjectHashTables data took  11.67ms
+[2023.06.03-11.15.21:954][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/UI/WBP_Winscreen" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset" SILENT=true
+[2023.06.03-11.15.21:987][814]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/WBP_WinscreenCD7901D148DCF321363F98A0EAE7D884.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset'
+[2023.06.03-11.15.52:469][396]BlueprintLog: New page: Compile WBP_Winscreen
+[2023.06.03-11.15.52:556][396]LogUObjectHash: Compacting FUObjectHashTables data took  10.92ms
+[2023.06.03-11.15.52:578][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/UI/WBP_Winscreen" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset" SILENT=true
+[2023.06.03-11.15.52:748][396]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/WBP_Winscreen9F98796846CD236BE8DD1290ECD9E5D3.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset'
+[2023.06.03-11.16.11:727][ 54]BlueprintLog: New page: Compile WBP_Winscreen
+[2023.06.03-11.16.11:812][ 54]LogUObjectHash: Compacting FUObjectHashTables data took  11.27ms
+[2023.06.03-11.16.11:834][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/UI/WBP_Winscreen" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset" SILENT=true
+[2023.06.03-11.16.11:867][ 54]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/WBP_WinscreenF93EA8E547515C9E469B13BD6366C774.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset'
+[2023.06.03-11.16.14:459][359]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-11.16.14:519][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.16.14:519][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-11.16.14:519][359]PIE: New page: PIE session: Menu (3 июня 2023 г., 17:16:14)
+[2023.06.03-11.16.14:519][359]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_Menu
+[2023.06.03-11.16.14:523][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003557s)
+[2023.06.03-11.16.14:523][359]LogAIModule: Creating AISystem for world Menu
+[2023.06.03-11.16.14:524][359]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2023.06.03-11.16.14:524][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/Menu.Menu to /Game/NewWorld/UEDPIE_0_Menu.Menu (0.004374s)
+[2023.06.03-11.16.14:599][359]LogUObjectHash: Compacting FUObjectHashTables data took  10.42ms
+[2023.06.03-11.16.14:604][359]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-11.16.14:619][359]LogInit: FAudioDevice initialized.
+[2023.06.03-11.16.14:623][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-11.16.14:666][359]LogLoad: Game class is 'BP_GameMode_Menu_C'
+[2023.06.03-11.16.14:669][359]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.06.03-14.16.14
+[2023.06.03-11.16.14:669][359]LogWorld: Bringing up level for play took: 0.001680
+[2023.06.03-11.16.14:683][359]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.06.03-11.16.14:685][359]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_Menu -0,401
+[2023.06.03-11.16.14:685][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.16.15:315][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-11.16.15:374][435]LogNet: Browse: /Game/NewWorld/LVL_1
+[2023.06.03-11.16.15:374][435]LogLoad: LoadMap: /Game/NewWorld/LVL_1
+[2023.06.03-11.16.15:450][435]LogUObjectHash: Compacting FUObjectHashTables data took   7.42ms
+[2023.06.03-11.16.15:467][435]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-11.16.15:468][435]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-11.16.15:483][435]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-14.16.15
+[2023.06.03-11.16.15:483][435]LogWorld: Bringing up level for play took: 0.015235
+[2023.06.03-11.16.15:484][435]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.03-11.16.15:484][435]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-11.16.15:484][435]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-11.16.15:484][435]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-11.16.15:493][435]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-11.16.15:494][435]LogLoad: Took 0.119798 seconds to LoadMap(/Game/NewWorld/LVL_1)
+[2023.06.03-11.16.32:428][466]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.06.03-11.16.34:380][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-11.16.34:447][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-11.16.34:447][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.16.34:456][708]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-11.16.34:487][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-11.16.34:487][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/NewWorld/Menu.Menu_C' with ClassGeneratedBy '/Game/NewWorld/Menu.Menu:PersistentLevel.Menu'
+[2023.06.03-11.16.34:578][708]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2023.06.03-11.16.34:602][709]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.06.03-11.16.40:285][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/UI/WBP_Winscreen" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset" SILENT=true
+[2023.06.03-11.16.40:318][384]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/WBP_Winscreen6C13C31E4B7449F08829D59CD050AC5A.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/UI/WBP_Winscreen.uasset'
