@@ -1100,3 +1100,395 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.03-12.01.12:645][697]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/LVL_18D7D703240861A8699AD62B08743A329.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/LVL_1.umap'
 [2023.06.03-12.02.19:116][985]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2023.06.03-12.02.19:116][985]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.02.38:960][122]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.02.38:960][122]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.03.51:454][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.03.54:789][184]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Arcanoid/ThePawn/BP_Pawn.BP_Pawn
+[2023.06.03-12.04.01:740][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.06.03-12.04.07:841][649]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.06.03-12.04.11:668][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.04.20:994][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.04.21:052][163]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.04.21:456][163]LogUObjectHash: Compacting FUObjectHashTables data took  11.39ms
+[2023.06.03-12.04.21:576][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.04.21:665][163]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn7725A18A41CA86CF1176749FC3C663B5.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.04.21:963][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.04.31:892][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.04.36:402][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.04.36:453][697]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.04.36:832][697]LogUObjectHash: Compacting FUObjectHashTables data took  11.94ms
+[2023.06.03-12.04.36:953][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.04.37:029][697]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn9A745CAD4A3B87DA262EDFBB62C1C63D.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.04.37:264][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.04.45:360][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.04.58:436][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.04.58:502][907]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.04.58:897][907]LogUObjectHash: Compacting FUObjectHashTables data took  12.02ms
+[2023.06.03-12.04.59:016][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.04.59:091][907]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnEACE6492409228F875C781A02F5CF250.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.04.59:506][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.05.02:458][266]LogEditorViewport: Clicking on Actor (LMB): BP_Pawn_C (BP_Pawn)
+[2023.06.03-12.05.03:473][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.06.03-12.05.05:014][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.06.03-12.05.05:456][535]LogEditorViewport: Clicking on Actor (LMB): BP_Pawn_C (BP_Pawn)
+[2023.06.03-12.05.07:597][764]LogEditorViewport: Clicking on Actor (LMB): BP_Pawn_C (BP_Pawn)
+[2023.06.03-12.05.11:646][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.05.19:955][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.05.20:022][985]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.05.20:415][985]LogUObjectHash: Compacting FUObjectHashTables data took  11.73ms
+[2023.06.03-12.05.20:536][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.05.20:612][985]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnFF240D944789FB787FA3ED8E1A750974.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.05.21:402][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.05.24:112][364]LogEditorViewport: Clicking on Actor (LMB): BP_Pawn_C (BP_Pawn)
+[2023.06.03-12.05.26:484][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.05.35:482][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.05.41:595][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.05.47:019][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.05.48:666][229]Cmd: TRANSACTION UNDO
+[2023.06.03-12.05.48:666][229]LogEditorTransaction: Undo Make New Scene Root
+[2023.06.03-12.05.48:691][229]LogMaterial: Display: Missing cached shader map for material M_Ball, compiling. 
+[2023.06.03-12.05.48:726][230]LogShaderCompilers: Display: Shaders left to compile 20
+[2023.06.03-12.05.50:104][387]LogShaderCompilers: Display: Shaders left to compile 10
+[2023.06.03-12.05.51:956][597]MaterialEditorStats: Base pass shader: 108 instructions
+[2023.06.03-12.05.51:956][597]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2023.06.03-12.05.51:956][597]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2023.06.03-12.05.51:956][597]MaterialEditorStats: Texture samplers: 3/16
+[2023.06.03-12.06.00:524][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.00:583][552]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.06.00:978][552]LogUObjectHash: Compacting FUObjectHashTables data took  12.39ms
+[2023.06.03-12.06.01:100][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.06.01:177][552]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn9F256F43474B19126F4F399B2B6B1D97.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.06.03:853][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.06:818][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.06:868][185]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-12.06.06:901][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.06.06:901][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-12.06.06:901][185]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 18:06:06)
+[2023.06.03-12.06.06:902][185]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-12.06.06:908][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005208s)
+[2023.06.03-12.06.06:908][185]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-12.06.06:908][185]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2023.06.03-12.06.06:908][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006097s)
+[2023.06.03-12.06.06:979][185]LogUObjectHash: Compacting FUObjectHashTables data took  11.18ms
+[2023.06.03-12.06.06:984][185]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-12.06.06:998][185]LogInit: FAudioDevice initialized.
+[2023.06.03-12.06.07:003][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.06.07:036][185]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-12.06.07:039][185]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-15.06.07
+[2023.06.03-12.06.07:039][185]LogWorld: Bringing up level for play took: 0.002620
+[2023.06.03-12.06.07:052][185]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.06.07:052][185]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.06.07:052][185]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.06.07:062][185]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.06.07:064][185]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 -0,021
+[2023.06.03-12.06.07:064][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.06.14:633][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.06.14:634][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.06.14:643][ 81]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-12.06.14:681][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-12.06.14:682][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.06.14:769][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2023.06.03-12.06.14:796][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.06.03-12.06.19:165][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.19:215][591]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.06.19:580][591]LogUObjectHash: Compacting FUObjectHashTables data took   9.27ms
+[2023.06.03-12.06.19:697][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.06.19:772][591]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn2DCD53204C318C8607EFA786DE7C2EA3.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.06.19:820][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.23:853][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.23:920][ 71]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.06.24:286][ 71]LogUObjectHash: Compacting FUObjectHashTables data took  11.52ms
+[2023.06.03-12.06.24:406][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.06.24:480][ 71]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn0E6EF9B240D65E995DB9888FB8368AC3.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.06.24:617][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.29:226][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.29:285][626]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.06.29:651][626]LogUObjectHash: Compacting FUObjectHashTables data took  11.60ms
+[2023.06.03-12.06.29:786][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.06.29:861][626]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnB2ECBBD44C455FCC9CCF14A518A7976E.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.06.32:874][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.36:852][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.36:902][456]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.06.37:273][456]LogUObjectHash: Compacting FUObjectHashTables data took  11.51ms
+[2023.06.03-12.06.37:394][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.06.37:469][456]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn4F1A30C7425B61DC659A38ACA5F62775.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.06.46:074][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.46:140][457]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.06.46:509][457]LogUObjectHash: Compacting FUObjectHashTables data took  11.63ms
+[2023.06.03-12.06.46:630][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.06.46:704][457]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnBBD01B98478277592A17F685CE2EE898.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.06.48:094][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.52:376][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.52:434][129]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.06.52:805][129]LogUObjectHash: Compacting FUObjectHashTables data took  11.94ms
+[2023.06.03-12.06.52:924][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.06.52:998][129]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn207EA4A84041EE452A07B999BE442D79.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.06.53:274][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.58:104][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.06.58:170][738]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.06.58:536][738]LogUObjectHash: Compacting FUObjectHashTables data took  11.90ms
+[2023.06.03-12.06.58:659][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.06.58:735][738]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnCB7067A84CE116BCD5DA4EA229691C7C.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.06.59:013][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.07.13:112][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.07.13:153][414]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.07.13:528][414]LogUObjectHash: Compacting FUObjectHashTables data took  11.85ms
+[2023.06.03-12.07.13:651][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.07.13:727][414]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn093D9DE445F44B6B6E6B85B2C1EE202F.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.07.14:107][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.07.17:702][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.07.17:742][868]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.07.18:112][868]LogUObjectHash: Compacting FUObjectHashTables data took  11.82ms
+[2023.06.03-12.07.18:233][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.07.18:308][868]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn293F481C4EE3E4EC8804B3BAB43BEF0D.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.07.18:543][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.07.24:407][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.07.29:640][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.07.29:707][206]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.07.30:078][206]LogUObjectHash: Compacting FUObjectHashTables data took  11.99ms
+[2023.06.03-12.07.30:200][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.07.30:275][206]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn6ED9B3894ED9A1857623F0A8856D6076.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.07.30:394][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.07.34:734][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.07.34:774][729]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.07.35:141][729]LogUObjectHash: Compacting FUObjectHashTables data took  12.05ms
+[2023.06.03-12.07.35:263][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.07.35:339][729]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn1C71FECE444B54D9B150D481E554AAEB.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.07.35:615][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.07.39:875][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.07.39:933][269]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.07.40:295][269]LogUObjectHash: Compacting FUObjectHashTables data took  11.67ms
+[2023.06.03-12.07.40:412][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.07.40:487][269]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnF9C6079741F9F7A0AC91A68E11E51023.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.07.40:845][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.07.58:331][394]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.07.58:696][394]LogUObjectHash: Compacting FUObjectHashTables data took  11.88ms
+[2023.06.03-12.07.58:822][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.07.58:899][394]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnF92821C84C9B189697C03BBC06B39AD9.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.07.59:159][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.08.01:885][739]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-12.08.01:924][739]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.08.01:924][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-12.08.01:925][739]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 18:08:01)
+[2023.06.03-12.08.01:926][739]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-12.08.01:931][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005534s)
+[2023.06.03-12.08.01:932][739]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-12.08.01:932][739]LogPlayLevel: PIE: World Init took: (0.000531s)
+[2023.06.03-12.08.01:932][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006246s)
+[2023.06.03-12.08.02:010][739]LogUObjectHash: Compacting FUObjectHashTables data took  11.12ms
+[2023.06.03-12.08.02:016][739]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-12.08.02:030][739]LogInit: FAudioDevice initialized.
+[2023.06.03-12.08.02:034][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.08.02:067][739]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-12.08.02:069][739]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-15.08.02
+[2023.06.03-12.08.02:070][739]LogWorld: Bringing up level for play took: 0.002588
+[2023.06.03-12.08.02:082][739]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.08.02:082][739]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.08.02:082][739]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.08.02:092][739]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.08.02:094][739]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 1,01
+[2023.06.03-12.08.02:094][739]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.08.04:445][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.08.04:446][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.08.04:456][ 17]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-12.08.04:491][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-12.08.04:492][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.08.04:576][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2023.06.03-12.08.04:603][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.06.03-12.08.10:095][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.08.10:160][660]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.08.10:557][660]LogUObjectHash: Compacting FUObjectHashTables data took  10.56ms
+[2023.06.03-12.08.10:691][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.08.10:765][660]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn3FD4006E4A5BE688DE8458AF0434082B.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.08.11:137][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.08.14:955][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.08.15:021][147]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.08.15:394][147]LogUObjectHash: Compacting FUObjectHashTables data took  11.67ms
+[2023.06.03-12.08.15:517][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.08.15:592][147]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn64B72E684F19ED49AC446D8A39626FAF.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.08.15:677][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.08.17:950][420]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-12.08.17:989][420]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.08.17:989][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-12.08.17:989][420]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 18:08:17)
+[2023.06.03-12.08.17:990][420]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-12.08.17:995][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005244s)
+[2023.06.03-12.08.17:996][420]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-12.08.17:996][420]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2023.06.03-12.08.17:996][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006018s)
+[2023.06.03-12.08.18:070][420]LogUObjectHash: Compacting FUObjectHashTables data took  11.15ms
+[2023.06.03-12.08.18:074][420]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-12.08.18:088][420]LogInit: FAudioDevice initialized.
+[2023.06.03-12.08.18:092][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.08.18:120][420]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-12.08.18:123][420]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-15.08.18
+[2023.06.03-12.08.18:123][420]LogWorld: Bringing up level for play took: 0.002435
+[2023.06.03-12.08.18:135][420]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.08.18:135][420]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.08.18:135][420]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.08.18:145][420]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.08.18:147][420]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 1,062
+[2023.06.03-12.08.18:148][420]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.08.26:259][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.08.26:260][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.08.26:269][384]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-12.08.26:305][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-12.08.26:306][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.08.26:404][384]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2023.06.03-12.08.26:431][385]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.06.03-12.08.43:386][344]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.03-12.08.43:407][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.08.49:123][ 24]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.08.49:499][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   9.86ms
+[2023.06.03-12.08.49:624][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.08.49:699][ 24]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn61D770104DB390F281D9728FDC754F10.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.08.49:921][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.08.51:459][227]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-12.08.51:499][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.08.51:499][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-12.08.51:499][227]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 18:08:51)
+[2023.06.03-12.08.51:500][227]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-12.08.51:505][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005158s)
+[2023.06.03-12.08.51:506][227]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-12.08.51:506][227]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2023.06.03-12.08.51:506][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.005887s)
+[2023.06.03-12.08.51:574][227]LogUObjectHash: Compacting FUObjectHashTables data took  10.96ms
+[2023.06.03-12.08.51:578][227]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-12.08.51:591][227]LogInit: FAudioDevice initialized.
+[2023.06.03-12.08.51:595][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.08.51:625][227]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-12.08.51:628][227]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-15.08.51
+[2023.06.03-12.08.51:628][227]LogWorld: Bringing up level for play took: 0.002702
+[2023.06.03-12.08.51:640][227]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.08.51:640][227]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.08.51:640][227]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.08.51:651][227]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.08.51:653][227]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 0,568
+[2023.06.03-12.08.51:653][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.08.55:124][635]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.08.55:125][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.08.55:135][635]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-12.08.55:172][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-12.08.55:173][635]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.08.55:257][635]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2023.06.03-12.08.55:284][636]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.06.03-12.10.38:265][776]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.10.38:624][776]LogUObjectHash: Compacting FUObjectHashTables data took  10.05ms
+[2023.06.03-12.10.38:761][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.10.38:838][776]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn052A8575425AB1897654AAB0D10B40CE.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.10.39:609][857]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-12.10.39:658][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.10.39:658][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-12.10.39:658][857]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 18:10:39)
+[2023.06.03-12.10.39:660][857]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-12.10.39:665][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005242s)
+[2023.06.03-12.10.39:665][857]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-12.10.39:666][857]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2023.06.03-12.10.39:666][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006083s)
+[2023.06.03-12.10.39:742][857]LogUObjectHash: Compacting FUObjectHashTables data took  11.75ms
+[2023.06.03-12.10.39:746][857]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-12.10.39:760][857]LogInit: FAudioDevice initialized.
+[2023.06.03-12.10.39:765][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.10.39:800][857]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-12.10.39:803][857]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-15.10.39
+[2023.06.03-12.10.39:804][857]LogWorld: Bringing up level for play took: 0.002684
+[2023.06.03-12.10.39:816][857]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.03-12.10.39:816][857]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.10.39:816][857]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.10.39:816][857]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.10.39:826][857]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.10.39:827][857]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 0,742
+[2023.06.03-12.10.39:828][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.10.56:601][758]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.10.56:602][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.10.56:611][758]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-12.10.56:658][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-12.10.56:659][758]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.10.56:746][758]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2023.06.03-12.10.56:825][759]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.06.03-12.11.37:604][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.11.37:662][408]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.11.38:096][408]LogUObjectHash: Compacting FUObjectHashTables data took  10.69ms
+[2023.06.03-12.11.38:226][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.11.38:303][408]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnFB7089FA448691E1F64E6C8E637A3CA8.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.11.40:772][696]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-12.11.40:812][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.11.40:812][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-12.11.40:812][696]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 18:11:40)
+[2023.06.03-12.11.40:813][696]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-12.11.40:819][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005160s)
+[2023.06.03-12.11.40:819][696]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-12.11.40:819][696]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2023.06.03-12.11.40:820][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006094s)
+[2023.06.03-12.11.40:893][696]LogUObjectHash: Compacting FUObjectHashTables data took  10.98ms
+[2023.06.03-12.11.40:897][696]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-12.11.40:911][696]LogInit: FAudioDevice initialized.
+[2023.06.03-12.11.40:915][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.11.40:945][696]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-12.11.40:948][696]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-15.11.40
+[2023.06.03-12.11.40:948][696]LogWorld: Bringing up level for play took: 0.002772
+[2023.06.03-12.11.40:960][696]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.11.40:960][696]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.11.40:960][696]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.11.40:971][696]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.11.40:973][696]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 -0,112
+[2023.06.03-12.11.40:973][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.11.41:880][802]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.11.41:880][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.11.41:889][802]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-12.11.41:923][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-12.11.41:924][802]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.11.42:009][802]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2023.06.03-12.11.42:036][803]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.06.03-12.11.46:957][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.11.47:007][384]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.11.47:373][384]LogUObjectHash: Compacting FUObjectHashTables data took   9.74ms
+[2023.06.03-12.11.47:494][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.11.47:569][384]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnE307DA5440A2F528349721AD2D7C7027.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.11.52:580][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.11.52:638][962]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.11.53:012][962]LogUObjectHash: Compacting FUObjectHashTables data took  12.08ms
+[2023.06.03-12.11.53:138][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.11.53:216][962]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn7B883BC34B845C24EA841FA71A904889.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.11.57:861][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.11.57:911][508]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.11.58:286][508]LogUObjectHash: Compacting FUObjectHashTables data took  12.00ms
+[2023.06.03-12.11.58:405][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.11.58:482][508]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnEC3C6B2644E639065DF8A18405945BBC.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.12.05:306][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.12.05:372][316]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-12.12.05:742][316]LogUObjectHash: Compacting FUObjectHashTables data took  11.85ms
+[2023.06.03-12.12.05:865][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-12.12.05:942][316]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_PawnE312CA2D4CB0033563FC35A7A8894FE7.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-12.12.07:666][510]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-12.12.07:706][510]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.12.07:707][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-12.12.07:707][510]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 18:12:07)
+[2023.06.03-12.12.07:708][510]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-12.12.07:713][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005215s)
+[2023.06.03-12.12.07:714][510]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-12.12.07:714][510]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2023.06.03-12.12.07:714][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.005941s)
+[2023.06.03-12.12.07:787][510]LogUObjectHash: Compacting FUObjectHashTables data took  11.02ms
+[2023.06.03-12.12.07:792][510]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-12.12.07:804][510]LogInit: FAudioDevice initialized.
+[2023.06.03-12.12.07:809][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.12.07:841][510]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-12.12.07:843][510]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-15.12.07
+[2023.06.03-12.12.07:844][510]LogWorld: Bringing up level for play took: 0.002461
+[2023.06.03-12.12.07:856][510]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.12.07:856][510]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.12.07:856][510]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.12.07:866][510]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.12.07:868][510]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 0,784
+[2023.06.03-12.12.07:869][510]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.12.56:161][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.12.56:161][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.12.56:171][286]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-12.12.56:205][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-12.12.56:206][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.12.56:290][286]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2023.06.03-12.12.56:319][287]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.06.03-12.13.12:431][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/LVL_1" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/LVL_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.03-12.13.12:501][201]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2023.06.03-12.13.12:830][201]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/LVL_145506D9C49C6CC5BB946D3AB52BC2A2F.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/LVL_1.umap'
