@@ -1492,3 +1492,644 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.03-12.13.12:431][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/LVL_1" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/LVL_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2023.06.03-12.13.12:501][201]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
 [2023.06.03-12.13.12:830][201]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/LVL_145506D9C49C6CC5BB946D3AB52BC2A2F.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/LVL_1.umap'
+[2023.06.03-12.19.11:233][750]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.19.11:233][750]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.19.17:637][153]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\grandy\Downloads\f086721a0a8f6a1.mp3)
+[2023.06.03-12.19.20:990][193]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\grandy\Downloads\88220d21b812cca.mp3)
+[2023.06.03-12.19.36:555][706]LogAssetEditorManager: Opening Asset editor for FileMediaSource /Game/Arcanoid/Sounds/88220d21b812cca.88220d21b812cca
+[2023.06.03-12.19.55:995][996]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2023.06.03-12.19.58:200][257]LogSlate: Window 'Asset Audit' being destroyed
+[2023.06.03-12.19.58:203][257]LogSlate: Window 'Asset Audit' being destroyed
+[2023.06.03-12.20.56:271][987]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.20.56:271][987]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.21.01:444][603]LogMetaData: Removing '/Game/Arcanoid/Sounds/S_Knock.S_Knock:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Arcanoid/Sounds/NewSoundCue.PackageMetaData'
+[2023.06.03-12.21.01:463][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/Sounds/S_Knock" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/S_Knock.uasset" SILENT=true
+[2023.06.03-12.21.01:465][603]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/S_KnockB22966B0482E69B2F7AAEA9480DAB02F.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/S_Knock.uasset'
+[2023.06.03-12.21.01:773][603]LogUObjectHash: Compacting FUObjectHashTables data took  10.12ms
+[2023.06.03-12.21.01:845][603]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2023.06.03-12.21.01:909][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.06.03-12.21.04:136][856]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Arcanoid/Sounds/S_Knock.S_Knock
+[2023.06.03-12.21.49:127][189]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2023.06.03-12.21.50:482][189]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-12.21.50:583][189]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2023.06.03-12.21.50:649][189]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2023.06.03-12.21.50:713][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.06.03-12.21.59:492][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L10N/ru/Arcanoid/Sounds/88220d21b812cca" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/L10N/ru/Arcanoid/Sounds/88220d21b812cca.uasset" SILENT=true
+[2023.06.03-12.21.59:494][232]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/88220d21b812cca18E345AB463357C04F3E81A4132E4B0C.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/L10N/ru/Arcanoid/Sounds/88220d21b812cca.uasset'
+[2023.06.03-12.22.09:988][483]LogAssetEditorManager: Opening Asset editor for FileMediaSource /Game/L10N/ru/Arcanoid/Sounds/88220d21b812cca.88220d21b812cca
+[2023.06.03-12.23.24:485][814]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2023.06.03-12.23.24:485][814]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewWorld/LVL_1' took 0.071
+[2023.06.03-12.23.24:508][814]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Arcanoid/Sounds/f086721a0a8f6a1] ([1] browsable assets)...
+[2023.06.03-12.23.24:508][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/Sounds/f086721a0a8f6a1]
+[2023.06.03-12.23.24:510][814]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/f086721a0a8f6a1_Auto1D90436FC44014D5055D40097944958A6.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/Sounds/f086721a0a8f6a1_Auto1.uasset'
+[2023.06.03-12.23.24:510][814]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Arcanoid/Sounds/88220d21b812cca] ([1] browsable assets)...
+[2023.06.03-12.23.24:510][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/Sounds/88220d21b812cca]
+[2023.06.03-12.23.24:511][814]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/88220d21b812cca_Auto1AC5D2DA1454DA9597DE6D2BC9D397F23.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/Sounds/88220d21b812cca_Auto1.uasset'
+[2023.06.03-12.23.24:511][814]LogFileHelpers: Auto-saving content packages took 0.025
+[2023.06.03-12.24.50:729][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.06.03-12.24.52:560][667]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-12.24.52:659][667]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2023.06.03-12.24.52:728][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.06.03-12.24.52:792][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.06.03-12.25.17:826][635]LogAssetEditorManager: Opening Asset editor for FileMediaSource /Game/Arcanoid/Sounds/88220d21b812cca.88220d21b812cca
+[2023.06.03-12.25.23:012][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.06.03-12.25.24:130][239]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-12.25.24:237][239]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2023.06.03-12.25.30:253][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.06.03-12.25.32:100][953]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-12.25.32:207][953]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2023.06.03-12.29.13:835][ 91]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\grandy\Downloads\88220d21b812cca (1).wav)
+[2023.06.03-12.29.26:746][138]LogAssetTools: Warning: Failed to import 'C:\Users\grandy\Downloads\f086721a0a8f6a1.wav.crdownload'. Unknown extension 'crdownload'.
+[2023.06.03-12.29.43:319][229]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\grandy\Downloads\f086721a0a8f6a1.wav)
+[2023.06.03-12.31.21:394][195]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave f086721a0a8f6a1...
+[2023.06.03-12.31.21:488][195]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 289656 while cooking SoundWave /Game/Arcanoid/Sounds/f086721a0a8f6a1.f086721a0a8f6a1.
+[2023.06.03-12.31.25:645][690]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave 88220d21b812cca__1_...
+[2023.06.03-12.31.25:651][690]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 18236 while cooking SoundWave /Game/Arcanoid/Sounds/88220d21b812cca__1_.88220d21b812cca__1_.
+[2023.06.03-12.33.24:975][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   8.25ms
+[2023.06.03-12.33.24:975][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewWorld/LVL_1' took 0.071
+[2023.06.03-12.33.24:976][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Arcanoid/Sounds/88220d21b812cca__1_] ([1] browsable assets)...
+[2023.06.03-12.33.24:984][ 36]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Arcanoid/Sounds/88220d21b812cca__1_.88220d21b812cca__1_]
+[2023.06.03-12.33.24:984][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/Sounds/88220d21b812cca__1_]
+[2023.06.03-12.33.24:996][ 36]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/88220d21b812cca__1__Auto295ADDF5C45460468A372B8B8D9805D6C.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/Sounds/88220d21b812cca__1__Auto2.uasset'
+[2023.06.03-12.33.24:997][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Arcanoid/Sounds/f086721a0a8f6a1] ([1] browsable assets)...
+[2023.06.03-12.33.25:003][ 36]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Arcanoid/Sounds/f086721a0a8f6a1.f086721a0a8f6a1]
+[2023.06.03-12.33.25:003][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/Sounds/f086721a0a8f6a1]
+[2023.06.03-12.33.25:007][ 36]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/f086721a0a8f6a1_Auto2C9BC3B9B464E17381B543EB5EA225AC7.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/Sounds/f086721a0a8f6a1_Auto2.uasset'
+[2023.06.03-12.33.25:007][ 36]LogFileHelpers: Auto-saving content packages took 0.032
+[2023.06.03-12.39.59:572][220]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.39.59:572][220]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.41.56:465][930]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\grandy\Downloads\tennis-racket-impact-ball_z1xe9jnd.wav)
+[2023.06.03-12.41.58:975][952]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\grandy\Downloads\e2e813054c44e31.wav)
+[2023.06.03-12.42.00:295][956]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave e2e813054c44e31...
+[2023.06.03-12.42.00:349][956]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 645366 while cooking SoundWave /Game/Arcanoid/Sounds/e2e813054c44e31.e2e813054c44e31.
+[2023.06.03-12.42.01:714][119]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave tennis-racket-impact-ball_z1xe9jnd...
+[2023.06.03-12.42.01:722][119]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 50688 while cooking SoundWave /Game/Arcanoid/Sounds/tennis-racket-impact-ball_z1xe9jnd.tennis-racket-impact-ball_z1xe9jnd.
+[2023.06.03-12.42.15:846][786]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Arcanoid/Sounds/tennis-racket-impact-ball_z1xe9jnd_Cue.tennis-racket-impact-ball_z1xe9jnd_Cue
+[2023.06.03-12.42.25:070][882]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.42.25:070][882]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.43.00:215][709]LogSlate: Window 'Message' being destroyed
+[2023.06.03-12.43.00:827][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.43.03:467][ 81]LogMaterialEditor: Applying material M_Ball
+[2023.06.03-12.43.03:826][ 81]LogMaterial: Display: Missing cached shader map for material M_Ball, compiling. 
+[2023.06.03-12.43.03:882][ 81]LogShaderCompilers: Display: Shaders left to compile 20
+[2023.06.03-12.43.03:887][ 81]LogMaterial: Display: Missing cached shader map for material M_Ball, compiling. 
+[2023.06.03-12.43.03:904][ 81]LogMaterial: Display: Missing cached shader map for material M_Ball, compiling. 
+[2023.06.03-12.43.04:015][ 81]LogUObjectHash: Compacting FUObjectHashTables data took  11.22ms
+[2023.06.03-12.43.04:023][ 81]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.06.03-12.43.06:447][ 81]LogShaderCompilers: Display: Shaders left to compile 40
+[2023.06.03-12.43.06:447][ 81]LogShaderCompilers: Display: Shaders left to compile 30
+[2023.06.03-12.43.06:448][ 81]TextureStreamingBuild: Display: Compiling optional shaders took 2.434 seconds.
+[2023.06.03-12.43.06:538][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   8.47ms
+[2023.06.03-12.43.06:923][117]LogMaterialEditor: Saving and Compiling material M_Ball
+[2023.06.03-12.43.09:099][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/Materials/M_Ball" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Materials/M_Ball.uasset" SILENT=true
+[2023.06.03-12.43.09:121][117]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/M_BallA04C08424C43DA77E949F2958214D918.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Materials/M_Ball.uasset'
+[2023.06.03-12.43.09:138][117]MaterialEditorStats: Base pass shader: 108 instructions
+[2023.06.03-12.43.09:138][117]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2023.06.03-12.43.09:138][117]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2023.06.03-12.43.09:138][117]MaterialEditorStats: Texture samplers: 3/16
+[2023.06.03-12.43.11:983][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.03-12.43.13:584][579]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.03-12.43.14:868][724]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.03-12.43.42:696][262]LogUObjectHash: Compacting FUObjectHashTables data took   9.72ms
+[2023.06.03-12.43.42:696][262]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewWorld/LVL_1' took 0.097
+[2023.06.03-12.43.42:698][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Arcanoid/Sounds/tennis-racket-impact-ball_z1xe9jnd] ([1] browsable assets)...
+[2023.06.03-12.43.42:709][262]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Arcanoid/Sounds/tennis-racket-impact-ball_z1xe9jnd.tennis-racket-impact-ball_z1xe9jnd]
+[2023.06.03-12.43.42:709][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/Sounds/tennis-racket-impact-ball_z1xe9jnd]
+[2023.06.03-12.43.42:714][262]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/tennis-racket-impact-ball_z1xe9jB61E624747BB4E35881668A7F641D29F.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/Sounds/tennis-racket-impact-ball_z1xe9jnd_Auto3.uasset'
+[2023.06.03-12.43.42:714][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Arcanoid/Sounds/e2e813054c44e31] ([1] browsable assets)...
+[2023.06.03-12.43.42:722][262]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Arcanoid/Sounds/e2e813054c44e31.e2e813054c44e31]
+[2023.06.03-12.43.42:722][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/Sounds/e2e813054c44e31]
+[2023.06.03-12.43.42:726][262]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/e2e813054c44e31_Auto3A4FD648842A1FCA0C4F4BB95E322A15E.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/Sounds/e2e813054c44e31_Auto3.uasset'
+[2023.06.03-12.43.42:727][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Arcanoid/Sounds/tennis-racket-impact-ball_z1xe9jnd_Cue] ([1] browsable assets)...
+[2023.06.03-12.43.42:727][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/Sounds/tennis-racket-impact-ball_z1xe9jnd_Cue]
+[2023.06.03-12.43.42:729][262]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/tennis-racket-impact-ball_z1xe9j9127669F45BEDA37F0ACC8A5C945CEA9.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/Sounds/tennis-racket-impact-ball_z1xe9jnd_Cue_Auto3.uasset'
+[2023.06.03-12.43.42:729][262]LogFileHelpers: Auto-saving content packages took 0.032
+[2023.06.03-12.44.06:130][368]LogMetaData: Removing '/Game/Arcanoid/Sounds/Hit_Cue.Hit_Cue:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Arcanoid/Sounds/tennis-racket-impact-ball_z1xe9jnd_Cue.PackageMetaData'
+[2023.06.03-12.44.06:146][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/Sounds/Hit_Cue" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Hit_Cue.uasset" SILENT=true
+[2023.06.03-12.44.06:149][368]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Hit_Cue60DD768F4EDB88ED7488BB9DA66AE884.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Hit_Cue.uasset'
+[2023.06.03-12.44.06:483][368]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2023.06.03-12.44.06:525][368]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2023.06.03-12.44.06:563][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.06.03-12.44.29:877][140]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Arcanoid/Sounds/Bonus_Cue.Bonus_Cue
+[2023.06.03-12.51.49:590][844]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.51.49:590][844]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.51.57:278][528]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Arcanoid/BP_Ball.BP_Ball
+[2023.06.03-12.52.27:788][812]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.52.27:788][812]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.53.11:945][729]BlueprintLog: New page: Compile BP_Ball
+[2023.06.03-12.53.12:174][729]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2023.06.03-12.53.12:212][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Ball" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset" SILENT=true
+[2023.06.03-12.53.12:249][729]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Ball60778164484B4457C4188CBE788E3D47.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset'
+[2023.06.03-12.53.28:167][108]BlueprintLog: New page: Compile BP_Ball
+[2023.06.03-12.53.28:415][108]LogUObjectHash: Compacting FUObjectHashTables data took   8.52ms
+[2023.06.03-12.53.28:458][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Ball" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset" SILENT=true
+[2023.06.03-12.53.28:495][108]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Ball4745DB8F4210E6DF1E82FF89622549D0.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset'
+[2023.06.03-12.53.30:894][235]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-12.53.30:909][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.53.30:909][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-12.53.30:909][235]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 18:53:30)
+[2023.06.03-12.53.30:909][235]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-12.53.30:914][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005292s)
+[2023.06.03-12.53.30:915][235]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-12.53.30:915][235]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2023.06.03-12.53.30:915][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006018s)
+[2023.06.03-12.53.30:961][235]LogUObjectHash: Compacting FUObjectHashTables data took   8.10ms
+[2023.06.03-12.53.30:965][235]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-12.53.30:980][235]LogInit: FAudioDevice initialized.
+[2023.06.03-12.53.30:985][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.53.31:011][235]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-12.53.31:014][235]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-15.53.31
+[2023.06.03-12.53.31:015][235]LogWorld: Bringing up level for play took: 0.002407
+[2023.06.03-12.53.31:027][235]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.03-12.53.31:027][235]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.53.31:027][235]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.53.31:027][235]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.53.31:037][235]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.53.31:039][235]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 -0,046
+[2023.06.03-12.53.31:039][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.53.50:336][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.53.50:336][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.53.50:346][545]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-12.53.50:376][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-12.53.50:376][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.53.50:434][545]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2023.06.03-12.53.50:453][546]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.06.03-12.54.22:860][ 96]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2023.06.03-12.54.22:999][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.06.03-12.54.25:996][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.54.45:398][910]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\grandy\Downloads\77feaa0951701d0.wav)
+[2023.06.03-12.54.47:777][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.54.53:193][615]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.06.03-12.54.54:060][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.54.54:110][718]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-12.54.54:125][718]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.54.54:125][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-12.54.54:125][718]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 18:54:54)
+[2023.06.03-12.54.54:125][718]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-12.54.54:130][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005216s)
+[2023.06.03-12.54.54:131][718]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-12.54.54:131][718]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2023.06.03-12.54.54:131][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006107s)
+[2023.06.03-12.54.54:173][718]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2023.06.03-12.54.54:178][718]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-12.54.54:193][718]LogInit: FAudioDevice initialized.
+[2023.06.03-12.54.54:198][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.54.54:228][718]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-12.54.54:230][718]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-15.54.54
+[2023.06.03-12.54.54:231][718]LogWorld: Bringing up level for play took: 0.002665
+[2023.06.03-12.54.54:243][718]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.54.54:243][718]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.54.54:243][718]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.54.54:253][718]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.54.54:255][718]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 -0,829
+[2023.06.03-12.54.54:255][718]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.54.54:273][718]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave 77feaa0951701d0...
+[2023.06.03-12.54.54:396][718]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1388066 while cooking SoundWave /Game/Arcanoid/Sounds/77feaa0951701d0.77feaa0951701d0.
+[2023.06.03-12.55.17:286][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.55.17:286][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.55.17:296][453]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-12.55.17:335][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-12.55.17:336][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.55.17:390][453]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2023.06.03-12.55.17:407][454]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.06.03-12.55.27:541][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-12.55.46:814][140]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Arcanoid/Sounds/Sound_Fon.Sound_Fon
+[2023.06.03-12.56.25:521][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2023.06.03-12.56.25:522][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/LVL_1" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/LVL_1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.03-12.56.25:761][869]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/LVL_1_Auto42AC9EBC74903F2E09E7A1595970E8373.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/LVL_1_Auto4.umap'
+[2023.06.03-12.56.25:762][869]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewWorld/LVL_1' took 0.285
+[2023.06.03-12.56.25:762][869]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.285
+[2023.06.03-12.56.25:763][869]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Arcanoid/Sounds/Bonus_Cue] ([1] browsable assets)...
+[2023.06.03-12.56.25:764][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/Sounds/Bonus_Cue]
+[2023.06.03-12.56.25:766][869]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Bonus_Cue_Auto4130257124F6FCCD2332F6A8E78510B33.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/Sounds/Bonus_Cue_Auto4.uasset'
+[2023.06.03-12.56.25:767][869]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Arcanoid/Sounds/77feaa0951701d0] ([1] browsable assets)...
+[2023.06.03-12.56.25:775][869]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Arcanoid/Sounds/77feaa0951701d0.77feaa0951701d0]
+[2023.06.03-12.56.25:775][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/Sounds/77feaa0951701d0]
+[2023.06.03-12.56.25:779][869]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/77feaa0951701d0_Auto40019AB104AE21F686EB7369CA9CBA154.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/Sounds/77feaa0951701d0_Auto4.uasset'
+[2023.06.03-12.56.25:780][869]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Arcanoid/Sounds/Sound_Fon] ([1] browsable assets)...
+[2023.06.03-12.56.25:780][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arcanoid/Sounds/Sound_Fon]
+[2023.06.03-12.56.25:781][869]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Sound_Fon_Auto4B9EAB5C04BFCAF7B9219BC8FF041DAE7.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/Arcanoid/Sounds/Sound_Fon_Auto4.uasset'
+[2023.06.03-12.56.25:782][869]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.06.03-12.57.11:624][  7]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.57.11:624][  7]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-12.57.16:291][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/Sounds/Sound_Fon" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_Fon.uasset" SILENT=true
+[2023.06.03-12.57.16:294][555]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Sound_Fon1B86E70543C4F9B367A0919E3253D389.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_Fon.uasset'
+[2023.06.03-12.57.18:589][824]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-12.57.18:604][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.57.18:604][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-12.57.18:604][824]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 18:57:18)
+[2023.06.03-12.57.18:604][824]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-12.57.18:610][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005338s)
+[2023.06.03-12.57.18:610][824]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-12.57.18:611][824]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2023.06.03-12.57.18:611][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006095s)
+[2023.06.03-12.57.18:651][824]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2023.06.03-12.57.18:656][824]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-12.57.18:669][824]LogInit: FAudioDevice initialized.
+[2023.06.03-12.57.18:674][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.57.18:706][824]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-12.57.18:708][824]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-15.57.18
+[2023.06.03-12.57.18:709][824]LogWorld: Bringing up level for play took: 0.002637
+[2023.06.03-12.57.18:721][824]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.57.18:721][824]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.57.18:721][824]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.57.18:731][824]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.57.18:733][824]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 -0,351
+[2023.06.03-12.57.18:733][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.57.46:230][114]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.57.46:230][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.57.46:240][114]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-12.57.46:274][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-12.57.46:275][114]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.57.46:332][114]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2023.06.03-12.57.46:356][115]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.06.03-12.58.37:462][873]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-12.58.37:478][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.58.37:478][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-12.58.37:478][873]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 18:58:37)
+[2023.06.03-12.58.37:478][873]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-12.58.37:484][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005276s)
+[2023.06.03-12.58.37:484][873]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-12.58.37:484][873]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2023.06.03-12.58.37:484][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.005937s)
+[2023.06.03-12.58.37:524][873]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2023.06.03-12.58.37:527][873]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-12.58.37:541][873]LogInit: FAudioDevice initialized.
+[2023.06.03-12.58.37:545][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.58.37:576][873]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-12.58.37:578][873]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-15.58.37
+[2023.06.03-12.58.37:579][873]LogWorld: Bringing up level for play took: 0.002541
+[2023.06.03-12.58.37:591][873]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.58.37:591][873]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-12.58.37:591][873]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.58.37:600][873]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-12.58.37:602][873]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 0,518
+[2023.06.03-12.58.37:603][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.59.50:150][554]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.59.50:150][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-12.59.50:160][554]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-12.59.50:194][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-12.59.50:195][554]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-12.59.50:249][554]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2023.06.03-12.59.50:273][555]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.06.03-13.00.19:498][ 56]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-13.00.19:498][ 56]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-13.00.26:997][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/Sounds/Sound_Fon" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_Fon.uasset" SILENT=true
+[2023.06.03-13.00.27:010][953]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Sound_FonF7CC2DA345C24FD530175BA5D6D6C2D8.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_Fon.uasset'
+[2023.06.03-13.00.28:437][115]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-13.00.28:452][115]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.00.28:452][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-13.00.28:452][115]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 19:00:28)
+[2023.06.03-13.00.28:452][115]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-13.00.28:457][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005298s)
+[2023.06.03-13.00.28:458][115]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-13.00.28:458][115]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2023.06.03-13.00.28:458][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006048s)
+[2023.06.03-13.00.28:499][115]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2023.06.03-13.00.28:503][115]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-13.00.28:517][115]LogInit: FAudioDevice initialized.
+[2023.06.03-13.00.28:521][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.00.28:550][115]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-13.00.28:552][115]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-16.00.28
+[2023.06.03-13.00.28:553][115]LogWorld: Bringing up level for play took: 0.002675
+[2023.06.03-13.00.28:565][115]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.00.28:565][115]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.00.28:565][115]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.00.28:575][115]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.00.28:577][115]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 -0,508
+[2023.06.03-13.00.28:577][115]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.01.51:947][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.01.51:948][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.01.51:957][ 99]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-13.01.51:990][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-13.01.51:991][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.01.52:048][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2023.06.03-13.01.52:072][100]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.06.03-13.03.32:587][807]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (77feaa0951701d0)
+[2023.06.03-13.03.42:499][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-13.04.07:295][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-13.04.07:362][847]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-13.04.07:377][847]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.04.07:377][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-13.04.07:377][847]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 19:04:07)
+[2023.06.03-13.04.07:377][847]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-13.04.07:382][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005362s)
+[2023.06.03-13.04.07:383][847]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-13.04.07:383][847]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2023.06.03-13.04.07:383][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006081s)
+[2023.06.03-13.04.07:426][847]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2023.06.03-13.04.07:430][847]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-13.04.07:443][847]LogInit: FAudioDevice initialized.
+[2023.06.03-13.04.07:448][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.04.07:479][847]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-13.04.07:483][847]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-16.04.07
+[2023.06.03-13.04.07:483][847]LogWorld: Bringing up level for play took: 0.003022
+[2023.06.03-13.04.07:495][847]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.04.07:495][847]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.04.07:495][847]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.04.07:506][847]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.04.07:508][847]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 0,423
+[2023.06.03-13.04.07:508][847]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.04.34:677][ 88]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.04.34:677][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.04.34:688][ 88]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-13.04.34:718][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-13.04.34:719][ 88]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.04.34:774][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2023.06.03-13.04.34:799][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.06.03-13.04.51:084][880]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-13.04.51:098][880]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.04.51:098][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-13.04.51:098][880]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 19:04:51)
+[2023.06.03-13.04.51:121][880]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-13.04.51:126][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005328s)
+[2023.06.03-13.04.51:127][880]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-13.04.51:127][880]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2023.06.03-13.04.51:127][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006065s)
+[2023.06.03-13.04.51:171][880]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2023.06.03-13.04.51:175][880]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-13.04.51:189][880]LogInit: FAudioDevice initialized.
+[2023.06.03-13.04.51:193][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.04.51:225][880]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-13.04.51:228][880]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-16.04.51
+[2023.06.03-13.04.51:228][880]LogWorld: Bringing up level for play took: 0.002355
+[2023.06.03-13.04.51:240][880]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.04.51:240][880]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.04.51:240][880]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.04.51:250][880]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.04.51:252][880]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 0,167
+[2023.06.03-13.04.51:252][880]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.04.56:195][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.04.56:195][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.04.56:205][469]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-13.04.56:236][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-13.04.56:236][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.04.56:295][469]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2023.06.03-13.04.56:314][470]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.06.03-13.06.11:519][733]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-13.06.11:534][733]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.06.11:535][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-13.06.11:535][733]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 19:06:11)
+[2023.06.03-13.06.11:535][733]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-13.06.11:540][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005267s)
+[2023.06.03-13.06.11:540][733]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-13.06.11:541][733]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2023.06.03-13.06.11:541][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.005934s)
+[2023.06.03-13.06.11:583][733]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2023.06.03-13.06.11:587][733]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-13.06.11:600][733]LogInit: FAudioDevice initialized.
+[2023.06.03-13.06.11:605][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.06.11:638][733]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-13.06.11:640][733]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-16.06.11
+[2023.06.03-13.06.11:641][733]LogWorld: Bringing up level for play took: 0.002501
+[2023.06.03-13.06.11:653][733]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.06.11:653][733]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.06.11:653][733]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.06.11:663][733]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.06.11:665][733]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 0,581
+[2023.06.03-13.06.11:666][733]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.07.11:854][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.07.11:854][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.07.11:865][906]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-13.07.11:898][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-13.07.11:899][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.07.11:951][906]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2023.06.03-13.07.11:975][907]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.06.03-13.07.17:765][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/Sounds/Sound_Fon" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_Fon.uasset" SILENT=true
+[2023.06.03-13.07.17:777][596]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Sound_Fon7BFA2D8D4E1EC1FCC97087AC659CB873.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_Fon.uasset'
+[2023.06.03-13.08.00:225][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-13.08.03:409][ 33]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (77feaa0951701d0)
+[2023.06.03-13.08.04:609][172]Cmd: DELETE
+[2023.06.03-13.08.04:609][172]Cmd: ACTOR DELETE
+[2023.06.03-13.08.04:852][172]LogEditorActor: Deleted Actor: AmbientSound
+[2023.06.03-13.08.04:897][172]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2023.06.03-13.08.04:898][172]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2023.06.03-13.08.05:911][293]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Sound_Fon)
+[2023.06.03-13.08.15:691][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-13.08.15:757][457]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-13.08.15:773][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.08.15:773][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-13.08.15:773][457]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 19:08:15)
+[2023.06.03-13.08.15:773][457]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-13.08.15:779][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005572s)
+[2023.06.03-13.08.15:779][457]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-13.08.15:779][457]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2023.06.03-13.08.15:779][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006294s)
+[2023.06.03-13.08.15:824][457]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2023.06.03-13.08.15:828][457]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-13.08.15:842][457]LogInit: FAudioDevice initialized.
+[2023.06.03-13.08.15:847][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.08.15:880][457]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-13.08.15:883][457]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-16.08.15
+[2023.06.03-13.08.15:883][457]LogWorld: Bringing up level for play took: 0.002771
+[2023.06.03-13.08.15:895][457]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.08.15:895][457]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.08.15:895][457]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.08.15:906][457]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.08.15:908][457]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 0,823
+[2023.06.03-13.08.15:908][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.10.13:439][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.10.13:440][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.10.13:449][445]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-13.10.13:483][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-13.10.13:484][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.10.13:540][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2023.06.03-13.10.13:548][445]LogActorComponent: ReregisterComponent: (/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.77feaa0951701d0_2.AudioComponent0) Not currently registered. Aborting.
+[2023.06.03-13.10.13:564][446]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.06.03-13.10.25:623][884]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Arcanoid/Bonuses/BP_bonus.BP_bonus
+[2023.06.03-13.10.35:163][969]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Arcanoid/ThePawn/BP_Pawn.BP_Pawn
+[2023.06.03-13.11.50:235][394]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-13.11.50:518][394]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2023.06.03-13.11.50:580][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-13.11.50:660][394]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn9D92C70A4D3B36FF28C713A76B7C4563.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-13.11.51:492][478]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-13.11.51:528][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.11.51:528][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-13.11.51:528][478]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 19:11:51)
+[2023.06.03-13.11.51:528][478]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-13.11.51:533][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005328s)
+[2023.06.03-13.11.51:534][478]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-13.11.51:534][478]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2023.06.03-13.11.51:534][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006143s)
+[2023.06.03-13.11.51:586][478]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2023.06.03-13.11.51:590][478]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-13.11.51:605][478]LogInit: FAudioDevice initialized.
+[2023.06.03-13.11.51:609][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.11.51:639][478]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-13.11.51:641][478]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-16.11.51
+[2023.06.03-13.11.51:642][478]LogWorld: Bringing up level for play took: 0.002404
+[2023.06.03-13.11.51:654][478]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.03-13.11.51:654][478]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.11.51:654][478]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.11.51:654][478]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.11.51:664][478]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.11.51:665][478]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 0,58
+[2023.06.03-13.11.51:665][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.12.20:359][275]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.12.20:360][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.12.20:369][275]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-13.12.20:414][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-13.12.20:415][275]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.12.20:470][275]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2023.06.03-13.12.20:478][275]LogActorComponent: ReregisterComponent: (/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.77feaa0951701d0_2.AudioComponent0) Not currently registered. Aborting.
+[2023.06.03-13.12.20:547][276]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.06.03-13.12.36:731][183]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Arcanoid/BP_Generator.BP_Generator
+[2023.06.03-13.14.08:666][ 75]BlueprintLog: New page: Compile BP_Generator
+[2023.06.03-13.14.08:938][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2023.06.03-13.14.09:019][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Generator" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Generator.uasset" SILENT=true
+[2023.06.03-13.14.09:073][ 75]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Generator28B8F75F4ABEE6DED8B0A480D88B8919.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Generator.uasset'
+[2023.06.03-13.14.44:263][229]LogUObjectHash: Compacting FUObjectHashTables data took   7.93ms
+[2023.06.03-13.14.44:264][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/LVL_1" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/LVL_1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.03-13.14.44:504][229]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/LVL_1_Auto5BA664DB94C8B67D2FA7AAE9E5A3F342F.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/LVL_1_Auto5.umap'
+[2023.06.03-13.14.44:506][229]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewWorld/LVL_1' took 0.297
+[2023.06.03-13.14.44:506][229]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.297
+[2023.06.03-13.24.25:571][365]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-13.24.25:571][365]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-13.25.06:514][159]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-13.25.06:514][159]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.06.03-13.25.16:398][342]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Arcanoid/Sounds/Sound_Win.Sound_Win
+[2023.06.03-13.25.18:713][598]LogSlate: Window 'Sound_Win' being destroyed
+[2023.06.03-13.25.36:605][737]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Arcanoid/Sounds/f086721a0a8f6a1.f086721a0a8f6a1
+[2023.06.03-13.25.40:658][214]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Arcanoid/Sounds/f086721a0a8f6a1.f086721a0a8f6a1
+[2023.06.03-13.26.10:347][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/Sounds/Sound_Win" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_Win.uasset" SILENT=true
+[2023.06.03-13.26.10:350][762]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Sound_Win82AA422447503E86077A4AA38C4E089A.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_Win.uasset'
+[2023.06.03-13.26.27:008][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/Sounds/Sound_Win" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_Win.uasset" SILENT=true
+[2023.06.03-13.26.27:021][756]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Sound_Win135A47E14241B8ABBDBCC491C29B570A.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_Win.uasset'
+[2023.06.03-13.26.41:564][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-13.27.11:558][ 60]BlueprintLog: New page: Compile BP_Generator
+[2023.06.03-13.27.11:831][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2023.06.03-13.27.11:910][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Generator" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Generator.uasset" SILENT=true
+[2023.06.03-13.27.11:964][ 60]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Generator494B98E44E1884E40095F189E2B287BD.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Generator.uasset'
+[2023.06.03-13.27.20:511][781]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\grandy\Downloads\b1314089d5efb25.wav)
+[2023.06.03-13.27.33:130][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/Sounds/Sound_Lose" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_Lose.uasset" SILENT=true
+[2023.06.03-13.27.33:134][961]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Sound_Lose76CBA5444C5D45073B5F36A82F4D5212.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_Lose.uasset'
+[2023.06.03-13.27.33:324][961]LogUObjectHash: Compacting FUObjectHashTables data took   7.97ms
+[2023.06.03-13.27.33:375][961]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2023.06.03-13.27.33:415][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.06.03-13.27.40:303][307]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\grandy\Downloads\jg-032316-sfx-8-bit-bounce-sound.wav)
+[2023.06.03-13.28.13:390][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/Sounds/Sound_dead" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_dead.uasset" SILENT=true
+[2023.06.03-13.28.13:394][749]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Sound_dead854F60284D1037774901F4A041EC95FD.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_dead.uasset'
+[2023.06.03-13.28.13:585][749]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2023.06.03-13.28.13:632][749]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2023.06.03-13.28.13:676][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.06.03-13.28.17:843][ 38]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\grandy\Downloads\sfx-2.wav)
+[2023.06.03-13.28.27:352][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/Sounds/Sound_debuff" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_debuff.uasset" SILENT=true
+[2023.06.03-13.28.27:356][ 19]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Sound_debuff11A468B749A6A1CD47B397AEE8ECA583.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_debuff.uasset'
+[2023.06.03-13.28.27:545][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2023.06.03-13.28.27:595][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2023.06.03-13.28.27:638][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.06.03-13.28.52:751][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.06.03-13.28.52:751][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/LVL_1" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/LVL_1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.03-13.28.52:986][ 12]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/LVL_1_Auto6F022594F49B4BFD257E9F39FE5948B6F.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Autosaves/Game/NewWorld/LVL_1_Auto6.umap'
+[2023.06.03-13.28.52:988][ 12]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewWorld/LVL_1' took 0.281
+[2023.06.03-13.28.52:988][ 12]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.281
+[2023.06.03-13.28.57:030][495]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sound_debuff...
+[2023.06.03-13.28.57:048][495]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 266240 while cooking SoundWave /Game/Arcanoid/Sounds/Sound_debuff.Sound_debuff.
+[2023.06.03-13.29.01:118][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-13.29.08:692][853]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Arcanoid/Sounds/Sound_debuff_Cue.Sound_debuff_Cue
+[2023.06.03-13.29.18:044][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/Sounds/Sound_debuff_Cue" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_debuff_Cue.uasset" SILENT=true
+[2023.06.03-13.29.18:047][967]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/Sound_debuff_Cue1D34E5E4498C22E747297A8013AF17B8.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/Sounds/Sound_debuff_Cue.uasset'
+[2023.06.03-13.29.21:094][318]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sound_dead...
+[2023.06.03-13.29.21:113][318]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 179712 while cooking SoundWave /Game/Arcanoid/Sounds/Sound_dead.Sound_dead.
+[2023.06.03-13.29.34:935][971]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sound_Lose...
+[2023.06.03-13.29.34:951][971]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 109280 while cooking SoundWave /Game/Arcanoid/Sounds/Sound_Lose.Sound_Lose.
+[2023.06.03-13.30.56:111][963]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-13.30.56:369][963]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2023.06.03-13.30.56:496][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-13.30.56:577][963]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn06206B48499C5B934AB8AB8C3772162B.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-13.31.42:667][271]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Arcanoid/BP_Ball.BP_Ball
+[2023.06.03-13.33.05:481][  8]BlueprintLog: New page: Compile BP_Pawn
+[2023.06.03-13.33.05:747][  8]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2023.06.03-13.33.05:866][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/ThePawn/BP_Pawn" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset" SILENT=true
+[2023.06.03-13.33.05:947][  8]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Pawn6471D8BD4AC7F1E3565F4EA593A6FDB0.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/ThePawn/BP_Pawn.uasset'
+[2023.06.03-13.33.08:470][298]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-13.33.08:506][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.33.08:506][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-13.33.08:506][298]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 19:33:08)
+[2023.06.03-13.33.08:506][298]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-13.33.08:511][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005368s)
+[2023.06.03-13.33.08:512][298]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-13.33.08:512][298]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2023.06.03-13.33.08:512][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006037s)
+[2023.06.03-13.33.08:569][298]LogUObjectHash: Compacting FUObjectHashTables data took   8.40ms
+[2023.06.03-13.33.08:574][298]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-13.33.08:588][298]LogInit: FAudioDevice initialized.
+[2023.06.03-13.33.08:593][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.33.08:623][298]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-13.33.08:625][298]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-16.33.08
+[2023.06.03-13.33.08:626][298]LogWorld: Bringing up level for play took: 0.002434
+[2023.06.03-13.33.08:638][298]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.33.08:638][298]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.33.08:638][298]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.33.08:649][298]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.33.08:651][298]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 -0,434
+[2023.06.03-13.33.08:651][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.33.23:010][ 18]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.06.03-13.33.27:570][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.03-13.33.27:604][569]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.06.03-13.33.27:604][569]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.06.03-13.33.27:604][569]LogNet: Browse: /Game/NewWorld/LVL_1
+[2023.06.03-13.33.27:604][569]LogLoad: LoadMap: /Game/NewWorld/LVL_1
+[2023.06.03-13.33.27:656][569]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2023.06.03-13.33.27:656][569]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-13.33.27:662][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005468s)
+[2023.06.03-13.33.27:662][569]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-13.33.27:663][569]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2023.06.03-13.33.27:663][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.006327s)
+[2023.06.03-13.33.27:663][569]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-13.33.27:665][569]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-16.33.27
+[2023.06.03-13.33.27:666][569]LogWorld: Bringing up level for play took: 0.002478
+[2023.06.03-13.33.27:666][569]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.03-13.33.27:666][569]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.33.27:666][569]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.33.27:666][569]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.33.27:675][569]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.33.27:676][569]LogLoad: Took 0.070937 seconds to LoadMap(/Game/NewWorld/UEDPIE_0_LVL_1)
+[2023.06.03-13.33.29:462][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.33.29:462][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.33.29:472][777]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-13.33.29:504][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-13.33.29:505][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.33.29:567][777]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2023.06.03-13.33.29:575][777]LogActorComponent: ReregisterComponent: (/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.77feaa0951701d0_2.AudioComponent0) Not currently registered. Aborting.
+[2023.06.03-13.33.29:591][778]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.06.03-13.35.47:147][276]LogSlate: Window 'Tutorials' being destroyed
+[2023.06.03-13.35.48:667][454]LogSlate: Window 'Tutorials' being destroyed
+[2023.06.03-13.35.49:392][535]LogSlate: Window 'Tutorials' being destroyed
+[2023.06.03-13.36.09:154][863]BlueprintLog: New page: Compile BP_Ball
+[2023.06.03-13.36.09:416][863]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2023.06.03-13.36.09:463][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arcanoid/BP_Ball" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset" SILENT=true
+[2023.06.03-13.36.09:502][863]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/BP_Ball171F3F564FB58D7CABBE2098FBE2855A.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/Arcanoid/BP_Ball.uasset'
+[2023.06.03-13.36.12:734][243]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.06.03-13.36.12:768][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.36.12:768][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.03-13.36.12:768][243]PIE: New page: PIE session: LVL_1 (3 июня 2023 г., 19:36:12)
+[2023.06.03-13.36.12:768][243]LogPlayLevel: Creating play world package: /Game/NewWorld/UEDPIE_0_LVL_1
+[2023.06.03-13.36.12:773][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005255s)
+[2023.06.03-13.36.12:774][243]LogAIModule: Creating AISystem for world LVL_1
+[2023.06.03-13.36.12:774][243]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2023.06.03-13.36.12:774][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld/LVL_1.LVL_1 to /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 (0.005905s)
+[2023.06.03-13.36.12:829][243]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2023.06.03-13.36.12:833][243]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.03-13.36.12:847][243]LogInit: FAudioDevice initialized.
+[2023.06.03-13.36.12:852][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.36.12:882][243]LogLoad: Game class is 'RenderToTexture_Game_C'
+[2023.06.03-13.36.12:885][243]LogWorld: Bringing World /Game/NewWorld/UEDPIE_0_LVL_1.LVL_1 up for play (max tick rate 0) at 2023.06.03-16.36.12
+[2023.06.03-13.36.12:885][243]LogWorld: Bringing up level for play took: 0.002736
+[2023.06.03-13.36.12:897][243]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.36.12:897][243]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.03-13.36.12:897][243]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.36.12:907][243]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.03-13.36.12:909][243]PIE: Play in editor start time for /Game/NewWorld/UEDPIE_0_LVL_1 -0,176
+[2023.06.03-13.36.12:909][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.36.36:845][112]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.36.36:846][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-13.36.36:855][112]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.03-13.36.36:891][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.03-13.36.36:892][112]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel' has LevelScriptBlueprint '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1' with GeneratedClass '/Game/NewWorld/LVL_1.LVL_1_C' with ClassGeneratedBy '/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.LVL_1'
+[2023.06.03-13.36.36:956][112]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2023.06.03-13.36.36:963][112]LogActorComponent: ReregisterComponent: (/Game/NewWorld/LVL_1.LVL_1:PersistentLevel.77feaa0951701d0_2.AudioComponent0) Not currently registered. Aborting.
+[2023.06.03-13.36.36:979][113]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.06.03-13.36.40:622][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld/LVL_1" FILE="../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/LVL_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.03-13.36.40:671][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.06.03-13.36.40:914][546]LogSavePackage: Moving '../../../../../../ue/UnrealDeveloping/MyProject2/Saved/LVL_157C9AB4C417531E19E06F0B949F9DA1A.tmp' to '../../../../../../ue/UnrealDeveloping/MyProject2/Content/NewWorld/LVL_1.umap'
